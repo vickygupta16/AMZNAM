@@ -24,48 +24,9 @@ $(document).ready(function () {
     }
   });
   //disable f12 button
-  //   $(document).keydown(function (event) {
-  //     if (event.keyCode == 123) {
-  //       return false;
-  //     }
-  //   });
-  $("#mode").click(function () {
-    if (!$("#mode").hasClass("animate-mode")) {
-      $("#mode").addClass("animate-mode");
-      setTimeout(function () {
-        $("#mode").removeClass("animate-mode");
-      }, 500);
+  $(document).keydown(function (event) {
+    if (event.keyCode == 123) {
+      return false;
     }
   });
-  $(".info-contact").click(function () {
-    if (
-      $(".code-logo").hasClass("animate-code-logo") &&
-      $(".dev-logo").hasClass("animate-dev-logo")
-    ) {
-      classing();
-    } else {
-      $(".code-logo").addClass("animate-code-logo");
-      $(".dev-logo").addClass("animate-dev-logo");
-      $(".code-logo").removeClass("hide-code-logo");
-      $(".dev-logo").removeClass("hide-dev-logo");
-    }
-  });
-  $(".code-logo").click(function () {
-    classing();
-  });
-  $(".dev-logo").click(function () {
-    classing();
-  });
-  function classing() {
-    $(".code-logo").addClass("hide-code-logo");
-    $(".dev-logo").addClass("hide-dev-logo");
-    setTimeout(function () {
-      $(".code-logo").removeClass("animate-code-logo");
-      $(".dev-logo").removeClass("animate-dev-logo");
-    }, 500);
-  }
 });
-
-// export function displayModal() {
-//   $("#passwordResultModal").modal("toggle");
-// }
