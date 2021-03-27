@@ -1,3 +1,255 @@
+26th march 2021
+<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-headphones fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Earphones</h5>
+                                    <p class="card-text">Boat and Edict up to 50% off</p>
+                                    <a href="https://amzn.to/2Pq1YNA" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-shopping-basket fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Grocery</h5>
+                                    <p class="card-text">Up To 30% Off On Grocery Essentials</p>
+                                    <a href="https://amzn.to/3sqPh3A" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-baby fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Baby Products</h5>
+                                    <p class="card-text">Upto 60% off on Baby Products</p>
+                                    <a href="https://amzn.to/3lQHkSM" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Samsung Galaxy Note10 Lite (Aura Glow, 6GB RAM, 128GB Storage)</p>
+                                    <a href="https://amzn.to/3ck7DxI" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Lava BeU Rose Pink, 2GB RAM, 32GB Storage</p>
+                                    <a href="https://amzn.to/2P6s4oT" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage)</p>
+                                    <a href="https://amzn.to/3fdbuhN" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Tecno Spark 5 Pro (Seabed Blue, 4GB RAM, 64GB Storage)</p>
+                                    <a href="https://amzn.to/31xU6fX" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">itel A47 (Cosmic Purple, 2GB RAM, 32GB Storage, 5.5'' HD+ IPS Display), L5505</p>
+                                    <a href="https://amzn.to/3d74wIv" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-tshirt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Fashion</h5>
+                                    <p class="card-text">Up to 80% off on Fashion Earrings and Necklaces</p>
+                                    <a href="https://amzn.to/3lFhPUo" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-volume-up fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Electronics</h5>
+                                    <p class="card-text">JBL brand week: Up to 50% off on headphones and speakers</p>
+                                    <a href="https://amzn.to/2NWDafO" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-shoe-prints fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Footwear</h5>
+                                    <p class="card-text">Min 60% off on Men's Casual Shoes</p>
+                                    <a href="https://amzn.to/3rri5aS" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-baby fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Baby Products</h5>
+                                    <p class="card-text">Jam & Honey, Gubbarey & more</p>
+                                    <a href="https://amzn.to/39iFO6X" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-charging-station fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Electronics</h5>
+                                    <p class="card-text">Upto 50% off on Robotic Vacuums Cleaners</p>
+                                    <a href="https://amzn.to/39il5QJ" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-tshirt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Men's Clothing</h5>
+                                    <p class="card-text">Min 70% of Men's tshirts & polos from Scott, AWG,Ben Martin & Maniac</p>
+                                    <a href="https://amzn.to/3sqKaQS" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-house-damage fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Home</h5>
+                                    <p class="card-text">Home decor best deals</p>
+                                    <a href="https://amzn.to/3rlBPMY" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fab fa-nutritionix fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Sports Nutrition</h5>
+                                    <p class="card-text">Upto 40% off on Sports Nutrition</p>
+                                    <a href="https://amzn.to/3rdLoxN" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-cookie-bite fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Superfoods</h5>
+                                    <p class="card-text">Upto 30% Off on Superfoods</p>
+                                    <a href="https://amzn.to/3cccMYq" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-headphones fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Mobile Accessories</h5>
+                                    <p class="card-text">Upto 50% Off on Jabra & Mivi Bluetooth headsets</p>
+                                    <a href="https://amzn.to/3vW7nNj" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-wine-bottle fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Bottle</h5>
+                                    <p class="card-text">Up to 30% off on Bottles and Flasks</p>
+                                    <a href="https://amzn.to/3clOECY" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-cookie-bite fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Food</h5>
+                                    <p class="card-text">Up To 40% Off On DryFruits</p>
+                                    <a href="https://amzn.to/3suzP6R" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-desktop fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Electronics</h5>
+                                    <p class="card-text">HP 15 db1069AU 15.6-inch Laptop (3rd Gen Ryzen 3 3200U/4GB/1TB HDD/Windows 10/MS Office/Radeon Vega 3 Graphics), Jet Black</p>
+                                    <a href="https://amzn.to/39go5gw" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-tools fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Tools</h5>
+                                    <p class="card-text">Upto 50% off on Power & Hand Tools</p>
+                                    <a href="https://amzn.to/3d52VDb" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-toolbox fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Car Accessories</h5>
+                                    <p class="card-text">Upto 70% Off on Car Accessories</p>
+                                    <a href="https://amzn.to/3feFeuG" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-music fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Instruments</h5>
+                                    <p class="card-text">Upto 60% off on Musical Instruments</p>
+                                    <a href="https://amzn.to/3sv1dBG" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-gamepad fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Video Games</h5>
+                                    <p class="card-text">Up to 50% off on Video Games & Accessories</p>
+                                    <a href="https://amzn.to/3cp02Op" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+25th march 2021
 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
                             <div class="card product-card">
                                 <div class="card-body">
