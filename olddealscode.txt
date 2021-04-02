@@ -1,3 +1,183 @@
+<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-baby fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Baby Products</h5>
+                                    <p class="card-text">Kid's Apparel | Jam & Honey, Blink Street & more</p>
+                                    <a href="https://amzn.to/3wa4uIx" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-headphones fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Mobile Accessories</h5>
+                                    <p class="card-text">Upto 75% Off</p>
+                                    <a href="https://amzn.to/39szoCh" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Samsung Galaxy Note10 Lite (Aura Glow, 6GB RAM, 128GB Storage)</p>
+                                    <a href="https://amzn.to/3w9jMNV" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-mobile-alt fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Android</h5>
+                                    <p class="card-text">Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage)</p>
+                                    <a href="https://amzn.to/3dkoDmG" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-music fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Instruments</h5>
+                                    <p class="card-text">Upto 60% off on Musical Instruments</p>
+                                    <a href="https://amzn.to/3rAZ85C" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-house-damage fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Kitchen Appliances</h5>
+                                    <p class="card-text">Up to 30% off on Water Purifiers</p>
+                                    <a href="https://amzn.to/3fqUtRm" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-cookie-bite fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Superfoods</h5>
+                                    <p class="card-text">Upto 30% Off on Superfoods</p>
+                                    <a href="https://amzn.to/3cccMYq" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-wine-bottle fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Bottle</h5>
+                                    <p class="card-text">Up to 50% off jars & containers</p>
+                                    <a href="https://amzn.to/39qQuR6" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-house-damage fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Home</h5>
+                                    <p class="card-text">AmazonBasics Large Appliances Starting at Rs.4225</p>
+                                    <a href="https://amzn.to/3sMZJmt" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-house-damage fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Home</h5>
+                                    <p class="card-text">Home decor best deals</p>
+                                    <a href="https://amzn.to/3tVzutS" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-cookie-bite fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Healthy foods</h5>
+                                    <p class="card-text">Upto 10% off on Healthcare products</p>
+                                    <a href="https://amzn.to/39ivTyg" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-wifi fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Electronics</h5>
+                                    <p class="card-text">UP TO 60% Off On High Speed WiFi Routers</p>
+                                    <a href="https://amzn.to/3fuDY6T" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-shopping-basket fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Grocery</h5>
+                                    <p class="card-text">Up To 30% Off On Grocery Essentials</p>
+                                    <a href="https://amzn.to/3lIE2AU" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-tools fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Tools</h5>
+                                    <p class="card-text">Upto 50% off on Power & Hand Tools</p>
+                                    <a href="https://amzn.to/3d52VDb" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fab fa-nutritionix fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Sports Nutrition</h5>
+                                    <p class="card-text">Upto 40% off on Sports Nutrition</p>
+                                    <a href="https://amzn.to/3rdLoxN" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="far fa-clock fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Watch</h5>
+                                    <p class="card-text">Upto 40% off on Fossil, Titan and More</p>
+                                    <a href="https://amzn.to/3rdJsp1" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-motorcycle fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Bike Accessories</h5>
+                                    <p class="card-text">Upto 75% off oN Bike Accessories</p>
+                                    <a href="https://amzn.to/3sAaMzh" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+                            <div class="card product-card">
+                                <div class="card-body">
+                                    <p class="text-center"><i class="fas fa-rupee-sign fa-4x"></i></p>
+                                    <h5 class="card-title text-center">Jewellery</h5>
+                                    <p class="card-text">Min 5% off on Gold coins and bars by Bangalore Refinery</p>
+                                    <a href="https://amzn.to/3sAaMzh" target="_blank" class="btn btn-dark d-block">Shop Now</a>
+                                </div>
+                            </div>
+                        </div>
 28th march 2021
 <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
                             <div class="card product-card">
