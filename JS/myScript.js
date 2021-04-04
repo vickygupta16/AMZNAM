@@ -172,6 +172,23 @@ function displayProducts(id) {
         "Upto 60% off on Baby Products",
       ],
     },
+    april04: {
+      title: "Deals from April 04 2021",
+      links: [
+        "https://amzn.to/3sOkGNz",
+        "https://amzn.to/3ueDXYS",
+        "https://amzn.to/2Px0gdG",
+        "https://amzn.to/31I7r55",
+        "https://amzn.to/39GuD8m",
+      ],
+      text: [
+        "Up To 40% Off on Dry Fruits",
+        "Min 60% Off: Women's Designer Kurtis & Salwar Suits",
+        "Upto 60% off on Baby Products",
+        "Vivo X60 Series | 10% HDFC Discount | Extra Upto Rs. 4000 off on Exchange",
+        "Samsung Galaxy Note10 Lite",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
@@ -190,6 +207,7 @@ function displayProducts(id) {
       }
       document.getElementById("ulList").innerHTML = code;
       document.getElementById("modalLabel").innerText = data[key].title;
+      break;
     }
   }
   //alert(id + " " + Object.keys(data).length);
