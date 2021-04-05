@@ -189,6 +189,23 @@ function displayProducts(id) {
         "Samsung Galaxy Note10 Lite",
       ],
     },
+    april05: {
+      title: "Deals from April 05 2021",
+      links: [
+        "https://amzn.to/3sLkwXn",
+        "https://amzn.to/3sQuoip",
+        "https://amzn.to/3fKOWoW",
+        "https://amzn.to/3dFbHIu",
+        "https://amzn.to/3rNBlzt",
+      ],
+      text: [
+        "Tecno Spark 5 Pro (Seabed Blue, 4GB RAM, 64GB Storage)",
+        "Handpicked Laptops & Desktop Computers under INR 40000",
+        "Upto 50% Off on Jabra Bluetooth Headsets",
+        "Kingston 500GB A2000 M.2 2280 Nvme Internal SSD PCIe Up to 2000MB/S (SA2000M8/500G)",
+        "Min 60% off on Women's Jeans, T-shirts, Loungewear & Westernwear",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
