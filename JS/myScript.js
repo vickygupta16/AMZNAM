@@ -206,6 +206,23 @@ function displayProducts(id) {
         "Min 60% off on Women's Jeans, T-shirts, Loungewear & Westernwear",
       ],
     },
+    april06: {
+      title: "Deals from April 06 2021",
+      links: [
+        "https://amzn.to/31NMUMu",
+        "https://amzn.to/3mkrHU6",
+        "https://amzn.to/31Q34oQ",
+        "https://amzn.to/3dB2DUW",
+        "https://amzn.to/39MkmHF",
+      ],
+      text: [
+        "Min 50% Off on Men's Topwear from Duke & Monte Carlo",
+        "Xtore Breathable Cotton Mask | Reusable | Washable | 2 layer mask",
+        "Upto 50% Off on Jabra,realme Bluetooth Headsets",
+        "Coolpad Cool 6 Silver, 4GB RAM, 64GB Storage",
+        "AmazonBasics Large Appliances Starting at Rs.4225",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
@@ -213,6 +230,8 @@ function displayProducts(id) {
       //alert(data[key].links.length + " " + data[key].text.length);
       var i = 0;
       var code = "";
+      document.getElementById("ulList").innerHTML = code;
+      document.getElementById("modalLabel").innerText = "";
       while (i < data[key].links.length) {
         code +=
           "<li class='list-group-item'><a target='_blank' href='" +
