@@ -223,6 +223,23 @@ function displayProducts(id) {
         "AmazonBasics Large Appliances Starting at Rs.4225",
       ],
     },
+    april07: {
+      title: "Deals from April 07 2021",
+      links: [
+        "https://amzn.to/3moc0LF",
+        "https://amzn.to/31TSPzW",
+        "https://amzn.to/3cS3Pnz",
+        "https://amzn.to/31SnDAV",
+        "https://amzn.to/3fPkIRY",
+      ],
+      text: [
+        "Vivo Carnival Days | Extra Upto Rs. 4000 off on Exchange",
+        "Up to 70% off pTron Mobile Accessories",
+        "Seller Labels Under 599: Miss Chase, Harpa & more",
+        "Min 60% Off on formal shoes",
+        "Upto 70% off on Men's footwear",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
