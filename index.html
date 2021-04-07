@@ -121,7 +121,6 @@
         <script src="JS/myScript.js"></script>
     </head>
     <body>
-        
         <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
@@ -235,6 +234,22 @@
             <br/>
         </div>
         <br/><br/>
-        
+        <script>
+            var mybutton = document.getElementById("myBtn");
+            window.onscroll = function () {
+                scrollFunction();
+            };
+            function scrollFunction() {
+                if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
+                    mybutton.style.display = "block";
+                } else {
+                    mybutton.style.display = "none";
+                }
+            }
+            function topFunction() {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+            }
+        </script>
     </body>
 </html>
