@@ -221,6 +221,23 @@ function displayProducts(id) {
         "Upto 70% off on Men's footwear",
       ],
     },
+    april08: {
+      title: "Deals from April 08 2021",
+      links: [
+        "https://amzn.to/3dKcgR5",
+        "https://amzn.to/3sZu6Gl",
+        "https://amzn.to/3upd1G2",
+        "https://amzn.to/2PDtVlE",
+        "https://amzn.to/2OtlMzq",
+      ],
+      text: [
+        "VLava BeU Rose Pink, 2GB RAM, 32GB Storage",
+        "Upto 40% off on Sports Nutrition",
+        "Upto 40% off on Fossil Titan and More",
+        "Upto 40% off on watches from Tommy Hilfiger, Timex & More",
+        "Up to 50% off on Juicer Mixer Grinders",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
