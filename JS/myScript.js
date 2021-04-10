@@ -259,6 +259,27 @@ function displayProducts(id) {
         "Nokia 5310 Dual SIM Feature Phone with MP3 Player, Wireless FM Radio and Rear Camera",
       ],
     },
+    april10: {
+      title: "Deals from April 10 2021",
+      links: [
+        "https://amzn.to/3dNu0v6",
+        "https://amzn.to/2Rsmmih",
+        "https://amzn.to/3uKExhv",
+        "https://amzn.to/3dPblPw",
+        "https://amzn.to/39Vu22I",
+        "https://amzn.to/3uKEzWF",
+        "https://amzn.to/3fTgEjw",
+      ],
+      text: [
+        "Dumbbells & Exercise Weights | Upto 40% off",
+        "Upto 50% Off: Gardening & Outdoor Best Sellers",
+        "Upto 45% off on Automotive accessories",
+        "Up to 40% off on Bakeware Products",
+        "Up to 60% Off on Amazon Brands Products - Electronics, Office Products & More",
+        "Upto 35% off on Bestselling Tablets",
+        "Print At Home @Low Printing cost|UP TO 30% OFF",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
