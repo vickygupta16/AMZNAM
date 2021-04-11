@@ -280,6 +280,27 @@ function displayProducts(id) {
         "Print At Home @Low Printing cost|UP TO 30% OFF",
       ],
     },
+    april11: {
+      title: "Deals from April 11 2021",
+      links: [
+        "https://amzn.to/3uHEdju",
+        "https://amzn.to/3dR7lOk",
+        "https://amzn.to/2RrFEEk",
+        "https://amzn.to/3dOnyUu",
+        "https://amzn.to/3wNc4cn",
+        "https://amzn.to/2PS63L3",
+        "https://amzn.to/3wKphTq",
+      ],
+      text: [
+        "Fujifilm instant cameras starting at INR 4999/-",
+        "Samsung Galaxy Tab A7 26.31 cm (10.4 inch), RAM 3 GB, ROM 32 GB Expandable, Wi-Fi-only, Silver",
+        "Upto 45% off on Intel Powered Laptops and Desktops",
+        "Cycles | Starting at Rs. 2,699",
+        "Upto 35% off on Grooming products",
+        "Upto 15% off on Helmets from Vega and Steelbird",
+        "Treadmill : Minimum 40% off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
