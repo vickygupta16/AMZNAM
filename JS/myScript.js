@@ -301,6 +301,27 @@ function displayProducts(id) {
         "Treadmill : Minimum 40% off",
       ],
     },
+    april12: {
+      title: "Deals from April 12 2021",
+      links: [
+        "https://amzn.to/3mG0w65",
+        "https://amzn.to/3teHbvA",
+        "https://amzn.to/3s9B2iI",
+        "https://amzn.to/3d9Yyb3",
+        "https://amzn.to/2PXUXnR",
+        "https://amzn.to/2QeFKyD",
+        "https://amzn.to/3s9EDxs",
+      ],
+      text: [
+        "Upto 50% off On Writing Instruments",
+        "Upto 50% off on Motorbike accessories & parts",
+        "Up to 35% off - Furniture from Amazon Brands & more",
+        "Upto 65% Off on Jabra Bluetooth Headset",
+        "Upto INR 30000 Off on Gaming Laptops and Desktops",
+        "Upto 75% off on Table and Floor Lamps",
+        "UP TO 30% Off On Printers|Epson, Canon, HP",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
