@@ -493,9 +493,10 @@ var setElectronicsList = () => {
 };
 
 window.onload = function () {
-  document.addEventListener("contextmenu", (event) => event.preventDefault());
   setPantryList();
   setKitchenApplianceList();
   setBabyProductsList();
   setElectronicsList();
+  document.addEventListener("contextmenu", (event) => event.preventDefault());
+  
 };
