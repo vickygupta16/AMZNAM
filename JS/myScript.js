@@ -348,6 +348,154 @@ function displayProducts(id) {
   //alert(id + " " + Object.keys(data).length);
 }
 
+var setPantryList = () => {
+  const pantryData = {
+    links: [
+      "https://amzn.to/3d8njEt",
+      "https://amzn.to/3wPYKUX",
+      "https://amzn.to/3s8Ap99",
+      "https://amzn.to/2QjslVH",
+      "https://amzn.to/3uCWqyo",
+      "https://amzn.to/2PUL5v4",
+      "https://amzn.to/3uLEGkq",
+    ],
+    texts: [
+      "Tata Sampann Thick Poha, 500g",
+      "Vim Dishwash Gel - 750 ml (Lemon)",
+      "Pampers New Diaper Pants, XL, 56 Count",
+      "Scotch-Brite Stainless Steel Scrub - Pack of 3",
+      "Savlon Germ Protection",
+      "Duracell Ultra Alkaline AAA Battery, 4 Pieces",
+      "Himalaya Total Care Baby Pants Diapers",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("pantryList").innerHTML = code;
+  while (i < pantryData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      pantryData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      pantryData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("pantryList").innerHTML = code;
+};
+
+var setKitchenApplianceList = () => {
+  const kitchenApplianceData = {
+    links: [
+      "https://amzn.to/2OK61V4",
+      "https://amzn.to/3g4kLZV",
+      "https://amzn.to/3a61Nyx",
+      "https://amzn.to/3mGg1va",
+      "https://amzn.to/3wIUZRb",
+      "https://amzn.to/3dbeEBk",
+      "https://amzn.to/3a3KCgQ",
+    ],
+    texts: [
+      "Upto 50% off on RK Aqua Fresh Water Purifiers",
+      "Upto 35% off on Dyson Appliances",
+      "Up to 50% off on Kitchen Tools",
+      "Up to 40% off on Milagrow Vacuum Cleaners",
+      "Upto 50% off on Robotic Vacuums Cleaners",
+      "Upto 50% off on Kitchen Products",
+      "Upto 50% Off on Nutricook Kitchen Appliances",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("kitchenApplianceList").innerHTML = code;
+  while (i < kitchenApplianceData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      kitchenApplianceData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      kitchenApplianceData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("kitchenApplianceList").innerHTML = code;
+};
+
+var setBabyProductsList = () => {
+  const babyProductData = {
+    links: [
+      "https://amzn.to/3mErpaB",
+      "https://amzn.to/327s2A4",
+      "https://amzn.to/3wQgGyq",
+      "https://amzn.to/3dYskP8",
+      "https://amzn.to/2PYJu7k",
+      "https://amzn.to/3dYssOC",
+      "https://amzn.to/3wY3MPg",
+    ],
+    texts: [
+      "Himalaya Baby Shampoo (400 ml)",
+      "Kid's Inflatable Baby Bath Tub Pool",
+      "Baby Mitten Gloves Cap and Booty Set",
+      "Baby Bather for Newborn and Infants",
+      "Spoon Feeder | Ceralac Feeder",
+      "Baby Blanket Cum Sleeping Bag Combo of 2",
+      "Linenaffairs Baby Washcloths | Baby Muslin Washcloth",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("babyList").innerHTML = code;
+  while (i < babyProductData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      babyProductData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      babyProductData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("babyList").innerHTML = code;
+};
+
+var setElectronicsList = () => {
+  const electronicsData = {
+    links: [
+      "https://amzn.to/2PNh7cx",
+      "https://amzn.to/3uVTA8b",
+      "https://amzn.to/39YJsDt",
+      "https://amzn.to/3tfSnYI",
+      "https://amzn.to/3uVTNrZ",
+      "https://amzn.to/2OEUoi2",
+      "https://amzn.to/3d7IPJK",
+    ],
+    texts: [
+      "Earphones",
+      "Computers & Accessories",
+      "Car & Vehicle Electronics",
+      "Cameras & Photography",
+      "Home Audio",
+      "Wearable Technology",
+      "Power Accessories",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("electronicsList").innerHTML = code;
+  while (i < electronicsData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      electronicsData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      electronicsData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("electronicsList").innerHTML = code;
+};
+
 window.onload = function () {
-  document.addEventListener("contextmenu", (event) => event.preventDefault());
+  //document.addEventListener("contextmenu", (event) => event.preventDefault());
+  setPantryList();
+  setKitchenApplianceList();
+  setBabyProductsList();
+  setElectronicsList();
 };
