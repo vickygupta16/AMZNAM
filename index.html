@@ -79,6 +79,9 @@
             .navbar {
             background-color: #faa307 !important;
             }
+            .nav-link.active{
+                background-color: #faa307 !important;
+            }
             .navbar-brand {
             margin-left: 25px;
             }
@@ -143,15 +146,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                    <h1 alt="amazon daily deals" class="text-center">Deals of the Day - 12<sup>th</sup>&nbsp;April&nbsp;2021</h1>
+                    <h1 alt="amazon daily deals" class="text-center">Deals of the Day - 13<sup>th</sup>&nbsp;April&nbsp;2021</h1>
                     <br/>
                     <div class="text-center">
-                        <a href="https://amzn.to/3tfI72E"
+                        <a href="https://amzn.to/3dWRfml"
                         class="btn btn-dark w-100" target="_blank">View today's deals</a>
                     </div>
                     <br/>
                     <div class="row">
                         <h1 alt="amazon deals" class="text-center">Old Deals</h1>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-6 oldDealsButton">
+                            <button data-bs-toggle="modal" data-bs-target="#modal" class="btn btn-dark" id="april12" onclick="displayProducts(this.id)">12<sup>th</sup>&nbsp;April&nbsp;2021</button>
+                        </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-6 oldDealsButton">
                             <button data-bs-toggle="modal" data-bs-target="#modal" class="btn btn-dark" id="april11" onclick="displayProducts(this.id)">11<sup>th</sup>&nbsp;April&nbsp;2021</button>
                         </div>
@@ -207,32 +213,38 @@
                     </div>
                     <hr/>
                     <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="categoryLinksDiv">
-                                <h1 alt="amazon pantry" class="text-center">Amazon Pantry</h1>
-                                <ul class="list-group list-group-flush" id="pantryList">
-                                </ul>
+                        <div class="d-flex align-items-start">
+                            <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                <button class="nav-link active" id="v-pills-pantry-tab" data-bs-toggle="pill" data-bs-target="#v-pills-pantry" type="button" role="tab" aria-controls="v-pills-pantry" aria-selected="true">Amazon Pantry</button>
+                                <button class="nav-link" id="v-pills-kitchenAppliance-tab" data-bs-toggle="pill" data-bs-target="#v-pills-kitchenAppliance" type="button" role="tab" aria-controls="v-pills-kitchenAppliance" aria-selected="false">Kitchen Appliances</button>
+                                <button class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-babyProducts" type="button" role="tab" aria-controls="v-pills-babyProducts" aria-selected="false">Baby Products</button>
+                                <button class="nav-link" id="v-pills-electronics-tab" data-bs-toggle="pill" data-bs-target="#v-pills-electronics" type="button" role="tab" aria-controls="v-pills-electronics" aria-selected="false">Electronics</button>
+                                <button class="nav-link" id="v-pills-office-tab" data-bs-toggle="pill" data-bs-target="#v-pills-office" type="button" role="tab" aria-controls="v-pills-office" aria-selected="false">Office Products</button>
+                                <button class="nav-link" id="v-pills-shoes-handbags-tab" data-bs-toggle="pill" data-bs-target="#v-pills-shoes-handbags" type="button" role="tab" aria-controls="v-pills-shoes-handbags" aria-selected="false">Shoes</button>
+                                <button class="nav-link" id="v-pills-furniture-tab" data-bs-toggle="pill" data-bs-target="#v-pills-furniture" type="button" role="tab" aria-controls="v-pills-furniture" aria-selected="false">Furniture</button>
                             </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="categoryLinksDiv">
-                                <h1 alt="amazon pantry" class="text-center">Kitchen Appliances</h1>
-                                <ul class="list-group list-group-flush" id="kitchenApplianceList">
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="categoryLinksDiv">
-                                <h1 alt="amazon pantry" class="text-center">Baby Products</h1>
-                                <ul class="list-group list-group-flush" id="babyList">
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                            <div class="categoryLinksDiv">
-                                <h1 alt="amazon pantry" class="text-center">Electronics</h1>
-                                <ul class="list-group list-group-flush" id="electronicsList">
-                                </ul>
+                            <div class="tab-content" id="v-pills-tabContent">
+                                <div class="tab-pane fade show active" id="v-pills-pantry" role="tabpanel" aria-labelledby="v-pills-pantry-tab">
+                                    <ul class="list-group list-group-flush" id="pantryList"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-kitchenAppliance" role="tabpanel" aria-labelledby="v-pills-kitchenAppliance-tab">
+                                    <ul class="list-group list-group-flush" id="kitchenApplianceList"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-babyProducts" role="tabpanel" aria-labelledby="v-pills-babyProducts-tab">
+                                    <ul class="list-group list-group-flush" id="babyList"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-electronics" role="tabpanel" aria-labelledby="v-pills-electronics-tab">
+                                    <ul class="list-group list-group-flush" id="electronicsList"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-office" role="tabpanel" aria-labelledby="v-pills-office-tab">
+                                    <ul class="list-group list-group-flush" id="officeList"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-shoes-handbags" role="tabpanel" aria-labelledby="v-pills-shoes-handbags-tab">
+                                    <ul class="list-group list-group-flush" id="shoes_handbags_List"></ul>
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-furniture" role="tabpanel" aria-labelledby="v-pills-furniture-tab">
+                                    <ul class="list-group list-group-flush" id="furnitureList"></ul>
+                                </div>
                             </div>
                         </div>
                     </div>
