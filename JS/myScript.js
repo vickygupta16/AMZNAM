@@ -322,6 +322,27 @@ function displayProducts(id) {
         "UP TO 30% Off On Printers|Epson, Canon, HP",
       ],
     },
+    april13: {
+      title: "Deals from April 13 2021",
+      links: [
+        "https://amzn.to/3mJro5y",
+        "https://amzn.to/3seGbWI",
+        "https://amzn.to/3a36ysn",
+        "https://amzn.to/2QohOsI",
+        "https://amzn.to/3mFVoiu",
+        "https://amzn.to/3deLbGw",
+        "https://amzn.to/3uYUwsr",
+      ],
+      text: [
+        "Up to 40% off on Sony Headphones and Speakers",
+        "Up To 30% Off On Grocery Essentials",
+        "Up to 60% Off on Amazon Brands Cases & Covers",
+        "Up To 70% OFF on Smart Watches & IoT Devices",
+        "Up to 30% off on Vacuum Cleaners",
+        "Upto 65% off on monitors|No Cost EMI",
+        "Upto INR 30000 Off on Gaming Laptops and Desktops",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
@@ -492,10 +513,121 @@ var setElectronicsList = () => {
   document.getElementById("electronicsList").innerHTML = code;
 };
 
+var setofficeList = () => {
+  const officeData = {
+    links: [
+      "https://amzn.to/3tqKNL7",
+      "https://amzn.to/3g6Tc28",
+      "https://amzn.to/3g4fSjN",
+      "https://amzn.to/326AxLM",
+      "https://amzn.to/3wQYIMs",
+      "https://amzn.to/3a6t8k8",
+      "https://amzn.to/3g55AQk",
+    ],
+    texts: [
+      "Faber-Castell Textliner - Pack of 5 (Assorted)",
+      "Parker Frontier Gold Trim Roller Ball Pen",
+      "Corslet File Folders for Documents",
+      "AmazonBasics 3 in 1 Heavy Duty Staple Gun",
+      "Posh 2D Ring Binder File",
+      "Casio MJ-12GST GST Calculator (Black)",
+      "Vantagekart Habit Tracker Daily, Weekly and Monthly Planner",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("officeList").innerHTML = code;
+  while (i < officeData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      officeData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      officeData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("officeList").innerHTML = code;
+};
+
+var setshoes_handbags_List = () => {
+  const shoes_handbags_Data = {
+    links: [
+      "https://amzn.to/3dZMLLI",
+      "https://amzn.to/3tfRY8z",
+      "https://amzn.to/3e1BoTo",
+      "https://amzn.to/3g7sOp8",
+      "https://amzn.to/3e1L8gw",
+      "https://amzn.to/3e1GU8C",
+      "https://amzn.to/3a6Sgag",
+    ],
+    texts: [
+      "Women's Footwear",
+      "Men's Footwear",
+      "Girls' Shoes",
+      "Boys' Shoes",
+      "Baby Shoes",
+      "Shoe Care & Accessories",
+      "Handbags, Purses & Clutches",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("shoes_handbags_List").innerHTML = code;
+  while (i < shoes_handbags_Data.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      shoes_handbags_Data.links[i] +
+      "'><span class='oldDealTitle'>" +
+      shoes_handbags_Data.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("shoes_handbags_List").innerHTML = code;
+};
+
+var setfurnitureList = () => {
+  const furnitureData = {
+    links: [
+      "https://amzn.to/2PREzFw",
+      "https://amzn.to/2PPUAMb",
+      "https://amzn.to/3shL9lE",
+      "https://amzn.to/3mFUSBf",
+      "https://amzn.to/3daVlYY",
+      "https://amzn.to/3mJxt1S",
+      "https://amzn.to/3sd0fZC",
+    ],
+    texts: [
+      "Desks & Workstations",
+      "Home & kitchen store",
+      "Bookshelves",
+      "Dressing Table",
+      "Dining Tables",
+      "TV Units",
+      "Wardrobes",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("furnitureList").innerHTML = code;
+  while (i < furnitureData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      furnitureData.links[i] +
+      "'><span class='oldDealTitle'>" +
+      furnitureData.texts[i] +
+      "</span></a></li>";
+    ++i;
+  }
+  document.getElementById("furnitureList").innerHTML = code;
+};
+
 window.onload = function () {
   document.addEventListener("contextmenu", (event) => event.preventDefault());
   setPantryList();
   setKitchenApplianceList();
   setBabyProductsList();
   setElectronicsList();
+  setofficeList();
+  setshoes_handbags_List();
+  setfurnitureList();
 };
