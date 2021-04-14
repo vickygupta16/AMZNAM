@@ -343,6 +343,27 @@ function displayProducts(id) {
         "Upto INR 30000 Off on Gaming Laptops and Desktops",
       ],
     },
+    april14: {
+      title: "Deals from April 14 2021",
+      links: [
+        "https://amzn.to/3tiKrWL",
+        "https://amzn.to/3a5vlw4",
+        "https://amzn.to/3wQkmQW",
+        "https://amzn.to/3wOPlgp",
+        "https://amzn.to/2OS1BLW",
+        "https://amzn.to/3wTJyWM",
+        "https://amzn.to/3sbYyvr",
+      ],
+      text: [
+        "Up to 50% off on Video Games & Accessories",
+        "Upto 50% off on Biking Gear",
+        "Handpicking Gaming Laptops and Desktops; Upto INR 30000 Off",
+        "Up to 35% off - Furniture from Amazon Brands & more",
+        "AmazonBasics Large Appliances Starting at Rs.4225",
+        "Up to 40% off on Pressure Cooker and Cookware",
+        "Upto 50% Off on Mivi, Urbn Moblies Accessories & More",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
