@@ -364,6 +364,27 @@ function displayProducts(id) {
         "Upto 50% Off on Mivi, Urbn Moblies Accessories & More",
       ],
     },
+    april15: {
+      title: "Deals from April 15 2021",
+      links: [
+        "https://amzn.to/3tqC37K",
+        "https://amzn.to/32dmrsd",
+        "https://amzn.to/3e7Bmtt",
+        "https://amzn.to/3x5kRqD",
+        "https://amzn.to/3tmyWgK",
+        "https://amzn.to/32h3R2c",
+        "https://amzn.to/3e8zfWp",
+      ],
+      text: [
+        "Olive oil",
+        "Up To 40% Off On Borges Grocery Essentials",
+        "Up to 40% off on Bottles and Flasks",
+        "Upto 65% off on monitors|No Cost EMI",
+        "Upto 60% off on Baby Products",
+        "Upto 40% off on Engine Oil & Car Care Products",
+        "Up to 50% off |Grocery essentials",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
