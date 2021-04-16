@@ -385,6 +385,27 @@ function displayProducts(id) {
         "Up to 50% off |Grocery essentials",
       ],
     },
+    april16: {
+      title: "Deals from April 16 2021",
+      links: [
+        "https://amzn.to/3dmMfID",
+        "https://amzn.to/3mRdn5w",
+        "https://amzn.to/32iVVgT",
+        "https://amzn.to/32kB78M",
+        "https://amzn.to/2QwFB9z",
+        "https://amzn.to/3dmMEuD",
+        "https://amzn.to/3e4FryB",
+      ],
+      text: [
+        "Up to 50% off on Video Games & Accessories",
+        "Epson L3152 WiFi All in One Ink Tank Printer",
+        "Upto 80% off on Watches",
+        "Tucasa",
+        "TECNO Spark 7 (Spruce Green, 2GB RAM, 32 GB Storage)",
+        "Upto INR 30000 Off on Handpicked Laptops & Desktop Computers",
+        "Upto 60% of on Vehicle Tools & Parts",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
@@ -414,11 +435,11 @@ function displayProducts(id) {
 var setPantryList = () => {
   const pantryData = {
     links: [
-      "https://amzn.to/3d8njEt",
+      "https://amzn.to/3dZSj8U",
       "https://amzn.to/3wPYKUX",
-      "https://amzn.to/3s8Ap99",
+      "https://amzn.to/3mT9bSM",
       "https://amzn.to/2QjslVH",
-      "https://amzn.to/3uCWqyo",
+      "https://amzn.to/3abBBm0",
       "https://amzn.to/2PUL5v4",
       "https://amzn.to/3uLEGkq",
     ],
