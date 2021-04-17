@@ -405,6 +405,27 @@ function displayProducts(id) {
         "Upto INR 30000 Off on Handpicked Laptops & Desktop Computers",
         "Upto 60% of on Vehicle Tools & Parts",
       ],
+      april17: {
+        title: "Deals from April 17 2021",
+        links: [
+          "https://amzn.to/32nWwhy",
+          "https://amzn.to/32tmTCt",
+          "https://amzn.to/32m67oT",
+          "https://amzn.to/2RGp5Vk",
+          "https://amzn.to/32othLA",
+          "https://amzn.to/3n63QrL",
+          "https://amzn.to/3mVpSgx",
+        ],
+        text: [
+          "Dumbbells & Exercise Weights | Upto 40% off",
+          "Price Cut on Large Screen TVs",
+          "Camera accessories starting at INR 375",
+          "Samsung Galaxy S20 FE 5G",
+          "TECNO Spark 7 (Spruce Green, 2GB RAM, 32 GB Storage)",
+          "Minimum 20% off on Shumee Toys",
+          "Up to 60% off Ambrane Mobile Accessories",
+        ],
+      },
     },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
