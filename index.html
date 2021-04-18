@@ -134,7 +134,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <div class="navbar-nav">
-                        <a class="nav-item nav-link disabled" target="_blank" href="#">Festive Offers</a>
+                        <a class="nav-item nav-link" target="_blank" href="https://amzn.to/3txBBEK">Festive Offers</a>
                         <a class="nav-item nav-link" target="_blank" href="https://www.facebook.com/ProductsByAmazon">Follow us on <i class="fab fa-facebook"></i></a>
                         <a class="nav-item nav-link" target="_blank" href="https://t.me/productsbyamazon">Join <i class="fab fa-telegram"></i></a>
                     </div>
@@ -146,7 +146,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                    <h1 alt="amazon daily deals" class="text-center">Deals of the Day - 17<sup>th</sup>&nbsp;April&nbsp;2021</h1>
+                    <h1 alt="amazon daily deals" class="text-center">Deals of the Day - 18<sup>th</sup>&nbsp;April&nbsp;2021</h1>
                     <br/>
                     <div class="text-center">
                         <a href="https://amzn.to/3x4fkR2"
@@ -155,6 +155,9 @@
                     <br/>
                     <div class="row">
                         <h1 alt="amazon deals" class="text-center">Old Deals</h1>
+                        <div class="col-lg-3 col-md-4 col-sm-6 col-6 oldDealsButton">
+                            <button data-bs-toggle="modal" data-bs-target="#modal" class="btn btn-dark" id="april17" onclick="displayProducts(this.id)">17<sup>th</sup>&nbsp;April&nbsp;2021</button>
+                        </div>
                         <div class="col-lg-3 col-md-4 col-sm-6 col-6 oldDealsButton">
                             <button data-bs-toggle="modal" data-bs-target="#modal" class="btn btn-dark" id="april16" onclick="displayProducts(this.id)">16<sup>th</sup>&nbsp;April&nbsp;2021</button>
                         </div>
@@ -264,24 +267,7 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
                     <h1 alt="shop category amazon" class="text-center">Categories</h1>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/2NyfSg6" title="Electronics">Electronics</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/38VDGSB" title="Mobiles">Mobiles</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3cKO8xh" title="Computers & Accessories">Computers & Accessories</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/38UZmy3" title="Car & Motorbike">Car & Motorbike</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3eSPvwI" title="Sports & Fitness Equipments">Sports & Fitness Equipments</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3qWs1Jq" title="Fashion">Fashion</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3eTNiku" title="Pantry">Pantry</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3vBBYPZ" title="Appliances">Appliances</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3lzMHWr" title="Baby Products">Baby Products</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/2ODR5b4" title="Beauty Products">Beauty Products</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3s032WV" title="Clothing & Accessories">Clothing & Accessories</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3r02tec" title="Furniture">Furniture</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/2OJm5q1" title="Home & Kitchen">Home & Kitchen</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3qYm1Qj" title="Jewellery">Jewellery</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3eRyKSp" title="Bags & Luggage">Bags & Luggage</a></li>
-                        <li class="list-group-item"><a target="_blank" href="https://amzn.to/3s03Rit" title="Office & Stationery">Office & Stationery</a></li>
-                    </ul>
+                    <ul class="list-group list-group-flush" id="categoryList"></ul>
                     <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-centered">
                         <div class="modal-content">
