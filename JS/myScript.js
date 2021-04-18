@@ -405,27 +405,48 @@ function displayProducts(id) {
         "Upto INR 30000 Off on Handpicked Laptops & Desktop Computers",
         "Upto 60% of on Vehicle Tools & Parts",
       ],
-      april17: {
-        title: "Deals from April 17 2021",
-        links: [
-          "https://amzn.to/32nWwhy",
-          "https://amzn.to/32tmTCt",
-          "https://amzn.to/32m67oT",
-          "https://amzn.to/2RGp5Vk",
-          "https://amzn.to/32othLA",
-          "https://amzn.to/3n63QrL",
-          "https://amzn.to/3mVpSgx",
-        ],
-        text: [
-          "Dumbbells & Exercise Weights | Upto 40% off",
-          "Price Cut on Large Screen TVs",
-          "Camera accessories starting at INR 375",
-          "Samsung Galaxy S20 FE 5G",
-          "TECNO Spark 7 (Spruce Green, 2GB RAM, 32 GB Storage)",
-          "Minimum 20% off on Shumee Toys",
-          "Up to 60% off Ambrane Mobile Accessories",
-        ],
-      },
+    },
+    april17: {
+      title: "Deals from April 17 2021",
+      links: [
+        "https://amzn.to/32nWwhy",
+        "https://amzn.to/32tmTCt",
+        "https://amzn.to/32m67oT",
+        "https://amzn.to/2RGp5Vk",
+        "https://amzn.to/32othLA",
+        "https://amzn.to/3n63QrL",
+        "https://amzn.to/3mVpSgx",
+      ],
+      text: [
+        "Dumbbells & Exercise Weights | Upto 40% off",
+        "Price Cut on Large Screen TVs",
+        "Camera accessories starting at INR 375",
+        "Samsung Galaxy S20 FE 5G",
+        "TECNO Spark 7 (Spruce Green, 2GB RAM, 32 GB Storage)",
+        "Minimum 20% off on Shumee Toys",
+        "Up to 60% off Ambrane Mobile Accessories",
+      ],
+    },
+    april18: {
+      title: "Deals from April 18 2021",
+      links: [
+        "https://amzn.to/3gkBmsE",
+        "https://amzn.to/3edMe94",
+        "https://amzn.to/2RKOZHu",
+        "https://amzn.to/3uY9Jd5",
+        "https://amzn.to/3ahfryD",
+        "https://amzn.to/3x7lJL2",
+        "https://amzn.to/3gkvwI0",
+      ],
+      text: [
+        "Up to 60% off | face masks",
+        "Cycles | Starting at Rs. 2,699",
+        "Treadmill : Minimum 40% off",
+        "Upto 15% off on Helmets from Vega and Steelbird",
+        "Upto 25% off on Laptops from Life Digital",
+        "Up To 70% OFF on Smart Watches & IoT Devices",
+        "Upto 50% off On Notebooks & School Supplies",
+      ],
     },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
@@ -705,8 +726,63 @@ var setfurnitureList = () => {
   document.getElementById("furnitureList").innerHTML = code;
 };
 
+var setCategoryList = () => {
+  const categoryData = {
+    links: [
+      "https://amzn.to/2NyfSg6",
+      "https://amzn.to/38VDGSB",
+      "https://amzn.to/3cKO8xh",
+      "https://amzn.to/38UZmy3",
+      "https://amzn.to/3eSPvwI",
+      "https://amzn.to/3qWs1Jq",
+      "https://amzn.to/3eTNiku",
+      "https://amzn.to/3vBBYPZ",
+      "https://amzn.to/3lzMHWr",
+      "https://amzn.to/2ODR5b4",
+      "https://amzn.to/3s032WV",
+      "https://amzn.to/3r02tec",
+      "https://amzn.to/2OJm5q1",
+      "https://amzn.to/3qYm1Qj",
+      "https://amzn.to/3eRyKSp",
+      "https://amzn.to/3s03Rit",
+    ],
+    texts: [
+      "Electronics",
+      "Mobiles",
+      "Computers & Accessories",
+      "Car & Motorbike",
+      "Sports & Fitness Equipments",
+      "Fashion",
+      "Pantry",
+      "Appliances",
+      "Baby Products",
+      "Beauty Products",
+      "Clothing & Accessories",
+      "Furniture",
+      "Home & Kitchen",
+      "Jewellery",
+      "Bags & Luggage",
+      "Office & Stationery",
+    ],
+  };
+  var i = 0;
+  var code = "";
+  document.getElementById("categoryList").innerHTML = code;
+  while (i < categoryData.links.length) {
+    code +=
+      "<li class='list-group-item'><a target='_blank' href='" +
+      categoryData.links[i] +
+      "'>" +
+      categoryData.texts[i] +
+      "</a></li>";
+    ++i;
+  }
+  document.getElementById("categoryList").innerHTML = code;
+};
+
 window.onload = function () {
   document.addEventListener("contextmenu", (event) => event.preventDefault());
+  setCategoryList();
   setPantryList();
   setKitchenApplianceList();
   setBabyProductsList();
