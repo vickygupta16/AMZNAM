@@ -448,6 +448,27 @@ function displayProducts(id) {
         "Upto 50% off On Notebooks & School Supplies",
       ],
     },
+    april19: {
+      title: "Deals from April 19 2021",
+      links: [
+        "https://amzn.to/2RLz9fL",
+        "https://amzn.to/2Q5HqL9",
+        "https://amzn.to/3x689aX",
+        "https://amzn.to/3e8jApW",
+        "https://amzn.to/3v65M6j",
+        "https://amzn.to/3gmN2vg",
+        "https://amzn.to/2RGmoCZ",
+      ],
+      text: [
+        "OPPO A31",
+        "Up to 45% off on baby diapers",
+        "Starting 129 | Ambrane Mobile Accessories",
+        "TECNO Spark 7",
+        "itel A47",
+        "Up to 50% off on Ecovacs Robotic Vacuum cleaner",
+        "Upto 45% off on Automotive equipment & tyres",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
