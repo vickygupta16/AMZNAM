@@ -469,6 +469,27 @@ function displayProducts(id) {
         "Upto 45% off on Automotive equipment & tyres",
       ],
     },
+    april20: {
+      title: "Deals from April 20 2021",
+      links: [
+        "https://amzn.to/3tDTt0A",
+        "https://amzn.to/3dxm0PT",
+        "https://amzn.to/2P4F6U7",
+        "https://amzn.to/3tAGRHp",
+        "https://amzn.to/3dvErnS",
+        "https://amzn.to/2QyWuAF",
+        "https://amzn.to/3syGCLZ",
+      ],
+      text: [
+        "Starting 99 | Urbn Mobile Accessories",
+        "Up to 40% off on Dinnerware",
+        "Rock Bottom Prices",
+        "TECNO Spark 7",
+        "Upto 70% off on Top Picks for Home",
+        "Up to 30% off on Vacuum Cleaners",
+        "UP TO 50% Off On Printers",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
