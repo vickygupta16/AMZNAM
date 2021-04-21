@@ -490,6 +490,27 @@ function displayProducts(id) {
         "UP TO 50% Off On Printers",
       ],
     },
+    april21: {
+      title: "Deals from April 21 2021",
+      links: [
+        "https://amzn.to/2QJroqd",
+        "https://amzn.to/2P5rS9u",
+        "https://amzn.to/2QM07TK",
+        "https://amzn.to/3sBeVCe",
+        "https://amzn.to/3vdhjkl",
+        "https://amzn.to/3v4qO56",
+        "https://amzn.to/3v7Woip",
+      ],
+      text: [
+        "Up to 50% off on Video Games & Accessories",
+        "UP TO 60% Off On High Speed WiFi Routers",
+        "Up to 30% off on Stainless Steel Kitchenware",
+        "Best selling smart lights",
+        "Harman Kardon Fly BT in-Ear Wireless Bluetooth Headphone",
+        "Upto 15% off on Helmets from Vega and Steelbird",
+        "Upto INR 40000 Off on Gaming Laptops & Desktops",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
