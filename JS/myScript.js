@@ -511,6 +511,27 @@ function displayProducts(id) {
         "Upto INR 40000 Off on Gaming Laptops & Desktops",
       ],
     },
+    april22: {
+      title: "Deals from April 22 2021",
+      links: [
+        "https://amzn.to/3tBgnFT",
+        "https://amzn.to/3vgyOQN",
+        "https://amzn.to/3naPaYn",
+        "https://amzn.to/3xaMlLv",
+        "https://amzn.to/32ynZNA",
+        "https://amzn.to/3vcSpRU",
+        "https://amzn.to/3eqrJpV",
+      ],
+      text: [
+        "Upto 60% off on Tablet accessories | Headsets | Computer Speakers",
+        "Upto 65% off | Urbn Mobile Accessories",
+        "Tucasa",
+        "Up to 35% off - Furniture from Amazon Brands & more",
+        "Rock Bottom Prices - Upto 25% off on Laptops from Life Digital",
+        "Sparkle Girlz Sparkle Girlz-Dolls-13'-13' Sparkle Tots",
+        "Upto 60% of on Vehicle Tools & Parts",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
