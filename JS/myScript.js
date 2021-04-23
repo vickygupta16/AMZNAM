@@ -532,6 +532,27 @@ function displayProducts(id) {
         "Upto 60% of on Vehicle Tools & Parts",
       ],
     },
+    april23: {
+      title: "Deals from April 23 2021",
+      links: [
+        "https://amzn.to/2Qjux06",
+        "https://amzn.to/2RP07mA",
+        "https://amzn.to/3nh4SRM",
+        "https://amzn.to/3sEEVN3",
+        "https://amzn.to/2QO7LgL",
+        "https://amzn.to/3dFgBGp",
+        "https://amzn.to/2PfiZdz",
+      ],
+      text: [
+        "Samsung Galaxy S20 FE 5G",
+        "Lava BeU Rose Pink",
+        "Upto 20% off | Helmets from Vega and Steelbird",
+        "Up to 50% off on Video Games & Accessories",
+        "Rock Bottom Prices - Upto 25% off on Laptops from Life Digital",
+        "UPto INR 40000 Off on Gaming Laptops & Desktops",
+        "Up to 70% off on Amazon Brand Sports Products",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
