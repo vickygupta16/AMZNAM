@@ -553,6 +553,27 @@ function displayProducts(id) {
         "Up to 70% off on Amazon Brand Sports Products",
       ],
     },
+    april24: {
+      title: "Deals from April 24 2021",
+      links: [
+        "https://amzn.to/3niQW9y",
+        "https://amzn.to/2PiTZCd",
+        "https://amzn.to/3tRwyPm",
+        "https://amzn.to/3vjpY4q",
+        "https://amzn.to/2QlghUE",
+        "https://amzn.to/3vla4Xz",
+        "https://amzn.to/3dKyVhi",
+      ],
+      text: [
+        "Gaming Accessories upto 50% off",
+        "Price Cut on Large Screen TVs and more from top brands",
+        "UPto INR 40000 Off on Gaming Laptops & Desktops",
+        "Up to 50% off on JBL & Infinity headphones and speakers",
+        "Upto 35% off on Bestselling Tablets",
+        "Up to 40% off on Kitchen Products",
+        "Upto 60% off on Baby Products",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
