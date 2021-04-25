@@ -574,6 +574,27 @@ function displayProducts(id) {
         "Upto 60% off on Baby Products",
       ],
     },
+    april25: {
+      title: "Deals from April 25 2021",
+      links: [
+        "https://amzn.to/3dLSfLk",
+        "https://amzn.to/3xjy9jc",
+        "https://amzn.to/3tVR8hS",
+        "https://amzn.to/3et3aZh",
+        "https://amzn.to/3erBjsB",
+        "https://amzn.to/3sKzz2B",
+        "https://amzn.to/3sJzJY8",
+      ],
+      text: [
+        "Up to 10% off on Pet Food and Treats",
+        "Cycles | Starting at Rs. 2,699",
+        "Sparkle Girlz",
+        "DOTD Car and bike Accessories",
+        "Fitkit FT98 carbon",
+        "Upto 25% Off on Handpicked Laptops from Life Digital",
+        "Upto 60% off on Baby Products",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
