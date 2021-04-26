@@ -595,6 +595,27 @@ function displayProducts(id) {
         "Upto 60% off on Baby Products",
       ],
     },
+    april26: {
+      title: "Deals from April 26 2021",
+      links: [
+        "https://amzn.to/3nkxRnD",
+        "https://amzn.to/3njQS9T",
+        "https://amzn.to/2Qw8xiy",
+        "https://amzn.to/2S3EYoZ",
+        "https://amzn.to/3sMtbIp",
+        "https://amzn.to/2RYFIeR",
+        "https://amzn.to/3evfHLY",
+      ],
+      text: [
+        "Guitars, Keyboards & more starting at 139",
+        "Top picks in Car Engine oil",
+        "Upto 40% off on Mice and Keying Device",
+        "Upto 50% off on Power & Hand Tools",
+        "Security Cameras Starting from INR 1895",
+        "Digital & SmartWatches starting from 699",
+        "Up to 70% off on Amazon Brand Sports Products",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
