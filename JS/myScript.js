@@ -616,6 +616,27 @@ function displayProducts(id) {
         "Up to 70% off on Amazon Brand Sports Products",
       ],
     },
+    april27: {
+      title: "Deals from April 27 2021",
+      links: [
+        "https://amzn.to/2QAIdDN",
+        "https://amzn.to/32OvoZa",
+        "https://amzn.to/3aHSxAG",
+        "https://amzn.to/3vnFPPO",
+        "https://amzn.to/2S6zGcl",
+        "https://amzn.to/32UUzZW",
+        "https://amzn.to/3xqthZC",
+      ],
+      text: [
+        "Tripods and batteries starting at INR 329/-",
+        "Lubricants: Deal of the day",
+        "Up to 50% off | Pet Care Products",
+        "Upto 45% off on Handpicked Laptops and Desktops",
+        "Upto 80% off on Watches",
+        "Up to 50% off on Kitchen Appliances",
+        "Upto 35% off on Personal Care Appliances",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
