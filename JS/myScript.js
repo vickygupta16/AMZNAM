@@ -1,56 +1,5 @@
 function displayProducts(id) {
   const data = {
-    march22: {
-      title: "Deals from March 22 2021",
-      links: [
-        "https://amzn.to/3vPRV52",
-        "https://amzn.to/3lEFNz2",
-        "https://amzn.to/3sadIlQ",
-        "https://amzn.to/3c8WVtW",
-        "https://amzn.to/3lBgBtv",
-      ],
-      text: [
-        "OPPO A31 (Mystery Black, 4GB RAM, 64GB Storage)",
-        "New Apple iPhone 12 Mini (64GB) - Black",
-        "Min 60% Off on women's handbags",
-        "Upto 60% Off on Sumeet Stainless Steel & Non- Stick Cookware",
-        "Furniture",
-      ],
-    },
-    march23: {
-      title: "Deals from March 23 2021",
-      links: [
-        "https://amzn.to/3scv8OE",
-        "https://amzn.to/2OWzMBW",
-        "https://amzn.to/2NIttRX",
-        "https://amzn.to/3lEAgsz",
-        "https://amzn.to/3cctpTV",
-      ],
-      text: [
-        "Amazon Brand - Myx, Tavasya, Indigo & more",
-        "Upto 50% Off on Jabra & Amabrane",
-        "Nokia 3.4 (Charcoal, 4GB RAM, 64GB Storage)",
-        "Min 60% Off on Womens footwear, Eden & Ivy, Flavia",
-        "Upto 50% off on Robotic Vacuums Cleaners",
-      ],
-    },
-    march24: {
-      title: "Deals from March 24 2021",
-      links: [
-        "https://amzn.to/3lJvtWR",
-        "https://amzn.to/3rq8AsN",
-        "https://amzn.to/31qNHmJ",
-        "https://amzn.to/3rfNayf",
-        "https://amzn.to/2NNjJWJ",
-      ],
-      text: [
-        "iPhone 12 mini | Extra Rs. 6000 off with HDFC Cards",
-        "Up to 40% off on Sony Headphones and speakers",
-        "Amazon Brand - Inkast, Symbol & more",
-        "Upto 35% off on Bestselling Tablets & Smartwatches",
-        "Upto 55% off on Gaming Monitors",
-      ],
-    },
     march25: {
       title: "Deals from March 25 2021",
       links: [
@@ -635,6 +584,27 @@ function displayProducts(id) {
         "Upto 80% off on Watches",
         "Up to 50% off on Kitchen Appliances",
         "Upto 35% off on Personal Care Appliances",
+      ],
+    },
+    april28: {
+      title: "Deals from April 28 2021",
+      links: [
+        "https://amzn.to/3vlZkbp",
+        "https://amzn.to/2Pv4Edh",
+        "https://amzn.to/3eAkf3C",
+        "https://amzn.to/3vnFPPO",
+        "https://amzn.to/331nyvb",
+        "https://amzn.to/2S1pvpi",
+        "https://amzn.to/3vqH40o",
+      ],
+      text: [
+        "Up to 50% off on Video Games & Accessories",
+        "Upto 60% off on Tablet accessories | Headsets | Computer Speakers",
+        "Vivo Y20i | Extra Rs. 1000 off on Exchange",
+        "Upto 45% off on Handpicked Laptops and Desktops",
+        "Upto 40% off on Engine Oil & Car Care Products",
+        "Sparkle Girlz",
+        "Tucasa",
       ],
     },
   };
