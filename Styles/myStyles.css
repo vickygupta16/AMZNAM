@@ -36,30 +36,10 @@
 .products-mainDiv {
   margin: auto;
 }
-.product-card {
-  border: none;
-  margin: auto;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-.product-card:hover {
-  border: 1px solid gray;
-  border-radius: 25px;
-  -webkit-box-shadow: 0 0 15px 2px #000;
-  -moz-box-shadow: 0 0 15px 2px #000;
-  box-shadow: 0 0 15px 2px #000;
-}
-.card {
-  width: 180px;
-  height: 500px auto;
-  border: 1px solid #fff;
-}
-.product_logo {
-  height: 300px;
-  width: 200px;
-  margin: auto;
-}
 .navbar {
+  background-color: #faa307 !important;
+}
+.nav-link.active {
   background-color: #faa307 !important;
 }
 .navbar-brand {
@@ -69,7 +49,14 @@
   text-align: center;
   font-weight: 700;
 }
-
+.oldDealsButton {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.categoryLinksDiv {
+  padding: 11px;
+}
 @media (min-width: 992px) {
   .navbar-nav {
     position: absolute;
@@ -77,22 +64,9 @@
     margin-right: 70px;
   }
 }
-
 @media (min-width: 768px) and (max-width: 991px) {
 }
-
 @media (min-width: 576px) and (max-width: 767px) {
-  .card {
-    width: 250px;
-    height: 500px auto;
-    border: 1px solid #fff;
-  }
 }
-
 @media (max-width: 575px) {
-  .card {
-    width: 300px;
-    height: 500px auto;
-    border: 1px solid #fff;
-  }
 }
