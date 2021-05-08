@@ -1,20 +1,24 @@
 function displayProducts(id) {
   const data = {
-    march25: {
-      title: "Deals from March 25 2021",
+    may07: {
+      title: "Deals from May 07 2021",
       links: [
-        "https://amzn.to/398XhyL",
-        "https://amzn.to/3rdJsp1",
-        "https://amzn.to/2PnVeQs",
-        "https://amzn.to/3slTGVD",
-        "https://amzn.to/3cgMgNP",
+        "https://amzn.to/3uvQ98b",
+        "https://amzn.to/3vNeYg3",
+        "https://amzn.to/3eqJZAu",
+        "https://amzn.to/3eYp1YU",
+        "https://amzn.to/3tsnYWc",
+        "https://amzn.to/3usCheZ",
+        "https://amzn.to/3nUminr",
       ],
       text: [
-        "Up to 40% off on Gas stoves & Induction Cooktops",
-        "Upto 40% off on Fossil, Titan and More",
-        "Xtore Breathable cotton cloth mask",
-        "Up to 35% off | Healthy food",
-        "Upto 65% off on pTron & Urbn Mobile Accessories",
+        "Starting INR 129 | Mobile Accessories from Top Brands",
+        "Up to 50% off on Headphones and Speakers",
+        "Deal on Gas Stoves & Cookware",
+        "Cycles | Starting at Rs. 2,699",
+        "Up to 65% off on Electronic Devices & Accessories",
+        "Upto 50% off on Biking Gear",
+        "Upto 65% off On Fiction Non Fiction And Children Books",
       ],
     },
   };
