@@ -21,6 +21,48 @@ function displayProducts(id) {
         "Upto 65% off On Fiction Non Fiction And Children Books",
       ],
     },
+    may08: {
+      title: "Deals from May 08 2021",
+      links: [
+        "https://amzn.to/3eqypFI",
+        "https://amzn.to/3uukQe4",
+        "https://amzn.to/3uxENR3",
+        "https://amzn.to/3evHLji",
+        "https://amzn.to/2R1ykPK",
+        "https://amzn.to/3uu6dHu",
+        "https://amzn.to/3vQbSb7",
+      ],
+      text: [
+        "Up to 40% off on Industrial and B2B Products",
+        "Min 60%-80% Off On Sarees, Dress Material and more",
+        "Min 60% off on Sleepwear, Comfort wear & Lingerie",
+        "Best sellers Cricket : Strating at 79",
+        "Upto 50% Off: Gardening & Outdoor Best Sellers",
+        "Min 60% Off on Men's Sport Shoes",
+        "Upto 80% off on Mens Boxers, Briefs,Vests & Socks",
+      ],
+    },
+    may09: {
+      title: "Deals from May 09 2021",
+      links: [
+        "https://amzn.to/3vQYNOJ",
+        "https://amzn.to/3bf9rqN",
+        "https://amzn.to/3ha8gN1",
+        "https://amzn.to/3nYX4nU",
+        "https://amzn.to/3vR09Jt",
+        "https://amzn.to/3fk8Oh5",
+        "https://amzn.to/3eXzC6g",
+      ],
+      text: [
+        "Cleaning Supplies",
+        "Min 60%-80% off on Women's Kurtis & Kurta Sets",
+        "Upto 90% Off: Lehengas, Blouses & Dress Materials",
+        "Kid's Apparel",
+        "Women's footwear",
+        "Coolpad Cool 6 Silver",
+        "Samsung Galaxy S20 FE 5G",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
