@@ -63,6 +63,27 @@ function displayProducts(id) {
         "Samsung Galaxy S20 FE 5G",
       ],
     },
+    may10: {
+      title: "Deals from May 10 2021",
+      links: [
+        "https://amzn.to/3f3kLHO",
+        "https://amzn.to/2SIe0DP",
+        "https://amzn.to/3bfaYxf",
+        "https://amzn.to/3tzoVfx",
+        "https://amzn.to/3bd4aQu",
+        "https://amzn.to/2SGxit5",
+        "https://amzn.to/3xZkMFf",
+      ],
+      text: [
+        "Laptops Sale | Upto INR 30000 Off",
+        "Tecno Spark 7",
+        "OPPO F19 Pro",
+        "Print at Home|Print Economically|UP TO 30% OFF",
+        "Cameras & accessories starting at INR 385/-",
+        "Upto 90% Off: Lehengas, Blouses & Dress Materials",
+        "min 60% Off on Watches",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
