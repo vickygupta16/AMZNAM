@@ -84,6 +84,27 @@ function displayProducts(id) {
         "min 60% Off on Watches",
       ],
     },
+    may11: {
+      title: "Deals from May 11 2021",
+      links: [
+        "https://amzn.to/3tGAqlj",
+        "https://amzn.to/33yaUnU",
+        "https://amzn.to/3hoO7CW",
+        "https://amzn.to/3eBOIja",
+        "https://amzn.to/3eBu2HR",
+        "https://amzn.to/2R0qndT",
+        "https://amzn.to/3uF7hbD",
+      ],
+      text: [
+        "Upto 80% off on Watches",
+        "Upto 50% off on Superbottoms baby diaper products",
+        "Up to 65% off on Boult Audio",
+        "Kitchen & Bath accessories",
+        "Vivo Y20 | Y20i",
+        "Mobile Accessories from Jabra, Urbn & More",
+        "Laptops Sale | Upto 45% Off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
