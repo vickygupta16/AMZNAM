@@ -105,6 +105,26 @@ function displayProducts(id) {
         "Laptops Sale | Upto 45% Off",
       ],
     },
+    may12: {
+      title: "Deals from May 12 2021",
+      links: [
+        "https://amzn.to/3fe5pjK",
+        "https://amzn.to/3xYRGG5",
+        "https://amzn.to/3hoO7CW",
+        "https://amzn.to/3uGb7RU",
+        "https://amzn.to/3vUjhGk",
+        "https://amzn.to/3f6KrmN",
+        "https://amzn.to/3uF7hbD",
+      ],
+      text: [
+        "Cleaning Supplies",
+        "Deal on Kitchen Products",
+        "Printers for High Volume & Low Cost Priting|UP TO 30% Off",
+        "Nokia 5310",
+        "iPhone 12",
+        "Laptops Sale | Upto 45% Off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
