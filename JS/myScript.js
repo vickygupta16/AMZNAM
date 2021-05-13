@@ -114,7 +114,7 @@ function displayProducts(id) {
         "https://amzn.to/3uGb7RU",
         "https://amzn.to/3vUjhGk",
         "https://amzn.to/3f6KrmN",
-        "https://amzn.to/3uF7hbD",
+        "https://amzn.to/3tCBdE0",
       ],
       text: [
         "Cleaning Supplies",
@@ -123,6 +123,28 @@ function displayProducts(id) {
         "Nokia 5310",
         "iPhone 12",
         "Laptops Sale | Upto 45% Off",
+        "Vivo Y11 | Price Slashed",
+      ],
+    },
+    may13: {
+      title: "Deals from May 13 2021",
+      links: [
+        "https://amzn.to/33DXkPR",
+        "https://amzn.to/2SHic6t",
+        "https://amzn.to/2SLl1Ui",
+        "https://amzn.to/3hsLYGJ",
+        "https://amzn.to/3f6KrmN",
+        "https://amzn.to/2RRnT1b",
+        "https://amzn.to/3blnfzW",
+      ],
+      text: [
+        "tucasa Vintage Metal Wall Clock-D8",
+        "Up to 60% Off on Amazon Brands Cases & Covers",
+        "Min 60% Off on Handbags",
+        "Cameras & accessories starting at INR 375/-",
+        "iPhone 12",
+        "Deal on Home Appliances",
+        "Upto 40% off on Sports Nutrition",
       ],
     },
   };
