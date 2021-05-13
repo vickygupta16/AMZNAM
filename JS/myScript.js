@@ -114,7 +114,7 @@ function displayProducts(id) {
         "https://amzn.to/3uGb7RU",
         "https://amzn.to/3vUjhGk",
         "https://amzn.to/3f6KrmN",
-        "https://amzn.to/3tCBdE0",
+        "https://amzn.to/3hnG9di",
       ],
       text: [
         "Cleaning Supplies",
@@ -123,7 +123,7 @@ function displayProducts(id) {
         "Nokia 5310",
         "iPhone 12",
         "Laptops Sale | Upto 45% Off",
-        "Vivo Y11 | Price Slashed",
+        "Power & Hand Tools",
       ],
     },
     may13: {
