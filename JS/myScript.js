@@ -147,6 +147,27 @@ function displayProducts(id) {
         "Upto 40% off on Sports Nutrition",
       ],
     },
+    may14: {
+      title: "Deals from May 14 2021",
+      links: [
+        "https://amzn.to/3htnQn8",
+        "https://amzn.to/3ycBJfm",
+        "https://amzn.to/3uMUDre",
+        "https://amzn.to/3hrmh9k",
+        "https://amzn.to/3bo8Nr0",
+        "https://amzn.to/3fgfjBt",
+        "https://amzn.to/3fcHCk6",
+      ],
+      text: [
+        "Lava Z2 Max",
+        "Up to 50% off on Coffee Mugs",
+        "Upto 40% off on Pantry Beauty Essentials",
+        "Upto 80% off on Mens Boxers, Briefs,Vests & Socks",
+        "Men's Apparel | Amazon Brand - Symbol, Diverse & more",
+        "Women's Apparel | Amazon Brand - Symbol, Eden & Ivy & more",
+        "Vivo Y20 | Y20i | Starting INR 11490",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
