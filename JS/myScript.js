@@ -168,6 +168,27 @@ function displayProducts(id) {
         "Vivo Y20 | Y20i | Starting INR 11490",
       ],
     },
+    may15: {
+      title: "Deals from May 15 2021",
+      links: [
+        "https://amzn.to/2RVkkaq",
+        "https://amzn.to/3yfDXdQ",
+        "https://amzn.to/3fm8e2g",
+        "https://amzn.to/3btAEGq",
+        "https://amzn.to/3hw1rFM",
+        "https://amzn.to/3w8NX6S",
+        "https://amzn.to/2RcZS56",
+      ],
+      text: [
+        "Pantry Beauty Sale",
+        "Min 60%-80% Off On Sarees, Dress Material and more",
+        "From Rs. 299: Lehengas, Blouses & Dress Materials",
+        "Min 60% Off on Handbags",
+        "Upto 50% Off: Gardening & Outdoor Best Sellers",
+        "upto 60% off on Wodden products",
+        "Camping and Outdoor : Min 15% off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
