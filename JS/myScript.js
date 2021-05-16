@@ -189,6 +189,27 @@ function displayProducts(id) {
         "Camping and Outdoor : Min 15% off",
       ],
     },
+    may16: {
+      title: "Deals from May 16 2021",
+      links: [
+        "https://amzn.to/2QlaTAG",
+        "https://amzn.to/3uWHITC",
+        "https://amzn.to/3hqkxNH",
+        "https://amzn.to/33Q5iFL",
+        "https://amzn.to/3hqkl0V",
+        "https://amzn.to/33JHPGh",
+        "https://amzn.to/3uSQ6Ue",
+      ],
+      text: [
+        "Designer Sarees Min 80% Off",
+        "Men's Footwear",
+        "Kid's Apparel",
+        "Min 60%-80% off on Women's Kurtis & Kurta Sets",
+        "Treadmill : Minimum 40% off",
+        "Deal on Kitchen Appliances",
+        "Cycles | Starting at Rs. 2,699",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
