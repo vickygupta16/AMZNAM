@@ -210,6 +210,27 @@ function displayProducts(id) {
         "Cycles | Starting at Rs. 2,699",
       ],
     },
+    may17: {
+      title: "Deals from May 17 2021",
+      links: [
+        "https://amzn.to/3ontlVY",
+        "https://amzn.to/3uSiJ3K",
+        "https://amzn.to/3byNvXX",
+        "https://amzn.to/3eBOF6Y",
+        "https://amzn.to/3obu4cJ",
+        "https://amzn.to/2RVkkaq",
+        "https://amzn.to/2RgyIdC",
+      ],
+      text: [
+        "Samsung Galaxy S20",
+        "75 years of JBL",
+        "Tecno Spark 7",
+        "Up To 30% Off On Grocery Essentials",
+        "Dry Fruits",
+        "Pantry Beauty Sale",
+        "Upto 80% off on Watches",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
