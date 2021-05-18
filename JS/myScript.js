@@ -231,6 +231,27 @@ function displayProducts(id) {
         "Upto 80% off on Watches",
       ],
     },
+    may18: {
+      title: "Deals from May 18 2021",
+      links: [
+        "https://amzn.to/3wrSG43",
+        "https://amzn.to/3fudjp0",
+        "https://amzn.to/3bwLMT2",
+        "https://amzn.to/3on6UjK",
+        "https://amzn.to/3ykhLiT",
+        "https://amzn.to/3bvVcxN",
+        "https://amzn.to/3ylNhwU",
+      ],
+      text: [
+        "Up To 70% OFF on Smart Watches & IoT Devices",
+        "Up to 40% off on Industrial and B2B Products",
+        "Min 75% off on Wedding Jewelry collection",
+        "Min 60% Off on Formal Shoes",
+        "Home Lockers & Security Devices",
+        "Upto 35% off on Perfect Gift options from Fujifilm",
+        "Microphones, headphones & more from JBL & AKG starting at 999",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
