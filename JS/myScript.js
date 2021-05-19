@@ -252,6 +252,27 @@ function displayProducts(id) {
         "Microphones, headphones & more from JBL & AKG starting at 999",
       ],
     },
+    may19: {
+      title: "Deals from May 19 2021",
+      links: [
+        "https://amzn.to/2SR3Gcr",
+        "https://amzn.to/3v23Pbo",
+        "https://amzn.to/3u6fLYs",
+        "https://amzn.to/3hCP9vA",
+        "https://amzn.to/2Sa7UeM",
+        "https://amzn.to/3uZJqDS",
+        "https://amzn.to/3eZirm2",
+      ],
+      text: [
+        "Itel Vision 2",
+        "Upto 65% off on monitors",
+        "Deal on Home Appliances",
+        "Power & Hand Tools",
+        "Nokia 5310",
+        "Upto 40% off on Fossil, Titan, Fastrack & more",
+        "Dry Fruits",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
