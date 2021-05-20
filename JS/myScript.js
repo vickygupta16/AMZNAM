@@ -273,6 +273,27 @@ function displayProducts(id) {
         "Dry Fruits",
       ],
     },
+    may20: {
+      title: "Deals from May 20 2021",
+      links: [
+        "https://amzn.to/3f3njXC",
+        "https://amzn.to/3eYR2AN",
+        "https://amzn.to/3u4wOtC",
+        "https://amzn.to/3u0x9xv",
+        "https://amzn.to/3ysmzTi",
+        "https://amzn.to/3u3YBdU",
+        "https://amzn.to/3fMwyuv",
+      ],
+      text: [
+        "Xtore Fingertip Pulse Oximeter",
+        "Up to 65% off on Camera Devices & Accessories",
+        "Digital & SmartWatches starting from 699",
+        "Up to 65% off on Electronic Devices & Accessories",
+        "Upto 45% off on baby products by R&R",
+        "Printers for High Volume & Low Cost Priting|UP TO 50% Off",
+        "Kitchen & Bath accessories",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
