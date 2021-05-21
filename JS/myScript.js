@@ -294,6 +294,27 @@ function displayProducts(id) {
         "Kitchen & Bath accessories",
       ],
     },
+    may21: {
+      title: "Deals from May 21 2021",
+      links: [
+        "https://amzn.to/34gKaZD",
+        "https://amzn.to/3oCf1cr",
+        "https://amzn.to/3bHKRz7",
+        "https://amzn.to/3yu6g8v",
+        "https://amzn.to/2Rzzane",
+        "https://amzn.to/2RBo4Or",
+        "https://amzn.to/3yrH6Y9",
+      ],
+      text: [
+        "Laptops Powered by Intel Core i5 and i7 Processors",
+        "iPhone 12 Mini | Starting Rs. 60900",
+        "Top Deal from Mivi, Urbn and Jabra Accessories",
+        "Power & Hand Tools",
+        "Deal on Kitchen Products",
+        "Upto 80% off on Watches",
+        "Up to 50% off on Headphones and Speakers from Blaupunkt",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
