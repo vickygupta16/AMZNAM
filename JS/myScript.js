@@ -315,6 +315,27 @@ function displayProducts(id) {
         "Up to 50% off on Headphones and Speakers from Blaupunkt",
       ],
     },
+    may22: {
+      title: "Deals from May 22 2021",
+      links: [
+        "https://amzn.to/3yygchi",
+        "https://amzn.to/3vcUXQ3",
+        "https://amzn.to/3fzJNyw",
+        "https://amzn.to/345KPN9",
+        "https://amzn.to/3hMCxlA",
+        "https://amzn.to/2RCin2V",
+        "https://amzn.to/346dzWb",
+      ],
+      text: [
+        "AGARO Prime 800 Watts Garment Steamer",
+        "Sports Bestsellers | Starting at Rs. 225",
+        "Min 60% Off on Men's Sandals",
+        "Vivo Y11 | Get Earphones at Rs. 99",
+        "Best Selling TVs at Discount| Limited time offer",
+        "Intel Core i5 and i7 Laptops",
+        "Handbags and combos",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
