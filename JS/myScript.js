@@ -336,6 +336,48 @@ function displayProducts(id) {
         "Handbags and combos",
       ],
     },
+    may23: {
+      title: "Deals from May 23 2021",
+      links: [
+        "https://amzn.to/349LhKs",
+        "https://amzn.to/2SlCRg9",
+        "https://amzn.to/2QH8QXQ",
+        "https://amzn.to/349NeXm",
+        "https://amzn.to/3bN0BAU",
+        "https://amzn.to/34bIMam",
+        "https://amzn.to/3fcuY5L",
+      ],
+      text: [
+        "Womens Tops, T-shirts, Jeans, Trackpants, Leggings under 499/-",
+        "Up to 70% Off on Suitcases and Travel accessories",
+        "Upto 70% off on Kids & Baby Clothing",
+        "Upto 45% off on Automotive accessories",
+        "Designer Sarees Upto 90% Off",
+        "Men's Apparel",
+        "Samsung Galaxy S20",
+      ],
+    },
+    may24: {
+      title: "Deals from May 24 2021",
+      links: [
+        "https://amzn.to/3ffW4t2",
+        "https://amzn.to/3vkTxmM",
+        "https://amzn.to/3bPplsi",
+        "https://amzn.to/34boJJg",
+        "https://amzn.to/3fgebi8",
+        "https://amzn.to/34aJEfv",
+        "https://amzn.to/3uf7GAC",
+      ],
+      text: [
+        "Deal on Kitchen Appliances",
+        "Upto 40% off on DearJoy baby products",
+        "Designer Sarees Upto 90% Off",
+        "Nokia 5310",
+        "Grocery Essentials",
+        "Top deals on pTron Mobile Accessories & more",
+        "Intel Core i5 & i7 Laptops",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
