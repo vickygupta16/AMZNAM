@@ -378,6 +378,27 @@ function displayProducts(id) {
         "Intel Core i5 & i7 Laptops",
       ],
     },
+    may25: {
+      title: "Deals from May 25 2021",
+      links: [
+        "https://amzn.to/3vj5zx9",
+        "https://amzn.to/3ui7Wiq",
+        "https://amzn.to/2QNfxHU",
+        "https://amzn.to/3vpIpVW",
+        "https://amzn.to/34lCbtX",
+        "https://amzn.to/3oOsRsb",
+        "https://amzn.to/3fNjl4B",
+      ],
+      text: [
+        "Upto 70% off on Artificial Flowers and Plants",
+        "Bathla Spic & Span Multi Purpose Micro Fiber Cleaning Cloth",
+        "Upto 50% off on Motorbike accessories & parts",
+        "Little Angel Diapers",
+        "Mobile Accessories from Oppo, Zinq & more",
+        "Boat Headphones and Speakers up to 60% off",
+        "Oppo F17 | Extra Rs. 3000 Apay Cashback+Coupon Discount",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
