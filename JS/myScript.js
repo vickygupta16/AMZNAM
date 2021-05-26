@@ -399,6 +399,27 @@ function displayProducts(id) {
         "Oppo F17 | Extra Rs. 3000 Apay Cashback+Coupon Discount",
       ],
     },
+    may26: {
+      title: "Deals from May 26 2021",
+      links: [
+        "https://amzn.to/34mR9jm",
+        "https://amzn.to/3wyMIOO",
+        "https://amzn.to/34iwHAh",
+        "https://amzn.to/3umVX39",
+        "https://amzn.to/3bUk56H",
+        "https://amzn.to/3vsqmOI",
+        "https://amzn.to/2RK7hsA",
+      ],
+      text: [
+        "Best Ever prices on OnePlus Mobile Accessories and More",
+        "Up to 70% off on Amazon Brand Sports Products",
+        "Oppo F17 | Extra Rs. 3000 Apay Cashback+Coupon Discount",
+        "Nokia C3 Android 10 Smartphone",
+        "Upto 70% off on Artificial Flowers and Plants",
+        "Gaming Accessories upto 50% off",
+        "Men's Apparel | Amazon Brand - Symbol, Diverse & more",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
