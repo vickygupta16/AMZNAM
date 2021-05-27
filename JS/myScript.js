@@ -420,6 +420,27 @@ function displayProducts(id) {
         "Men's Apparel | Amazon Brand - Symbol, Diverse & more",
       ],
     },
+    may27: {
+      title: "Deals from May 27 2021",
+      links: [
+        "https://amzn.to/2Tof6Vt",
+        "https://amzn.to/2RHd0zG",
+        "https://amzn.to/3floRw5",
+        "https://amzn.to/3wAjcrH",
+        "https://amzn.to/3fqc5fT",
+        "https://amzn.to/2RHdeXy",
+        "https://amzn.to/3bTpUB9",
+      ],
+      text: [
+        "Up to 65% Off on Musical Instruments & Accessories",
+        "Samsung Galaxy A21s",
+        "Xtore Breathable Cotton Mask",
+        "Upto 80% off on Watches",
+        "Upto 40% off on LittleOne's baby products",
+        "Up to 65% Off on Top Branded Headphones & Speakers",
+        "Up to 60% Off on Camera Devices & Accessories",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
