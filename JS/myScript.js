@@ -441,6 +441,27 @@ function displayProducts(id) {
         "Up to 60% Off on Camera Devices & Accessories",
       ],
     },
+    may28: {
+      title: "Deals from May 28 2021",
+      links: [
+        "https://amzn.to/2R3cThs",
+        "https://amzn.to/2R3cL1s",
+        "https://amzn.to/2SBt0mR",
+        "https://amzn.to/3usRQCG",
+        "https://amzn.to/3oVFBgL",
+        "https://amzn.to/2SBtklz",
+        "https://amzn.to/3fr6FkQ",
+      ],
+      text: [
+        "HP Brand Days | Upto INR 30000 Off on Laptops, Printers & more",
+        "Up to 60% off on Amazon Brands Appliances and Kitchen Products",
+        "Gaming Accessories upto 50% off",
+        "Up to 25% off on household essentials - Pantry",
+        "Nokia C3 | All-Day Battery and Fingerprint Sensor",
+        "Men's footwear",
+        "Digital & SmartWatches starting from 699",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
