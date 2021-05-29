@@ -462,6 +462,27 @@ function displayProducts(id) {
         "Digital & SmartWatches starting from 699",
       ],
     },
+    may29: {
+      title: "Deals from May 29 2021",
+      links: [
+        "https://amzn.to/3oZ8hFH",
+        "https://amzn.to/3vBiyu3",
+        "https://amzn.to/34xb5jC",
+        "https://amzn.to/2SGZNGQ",
+        "https://amzn.to/3uvZFYi",
+        "https://amzn.to/3c2vt0m",
+        "https://amzn.to/3vxIHtM",
+      ],
+      text: [
+        "Upto INR 80000 Off on ASUS All in One Desktops and Gaming Towers",
+        "Upto 70% off on Kids & Baby Clothing by Hopscotch, Minicult and other top brands",
+        "Best sellers Cricket : Strating at 79",
+        "Handbags and combos",
+        "Upto 60% of on Vehicle Tools & Parts",
+        "Womens Tops, T-shirts, Jeans, Trackpants, Leggings under 499/-",
+        "Upto 50% Off: Gardening Essentials",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
