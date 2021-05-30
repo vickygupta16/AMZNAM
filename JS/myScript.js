@@ -483,6 +483,27 @@ function displayProducts(id) {
         "Upto 50% Off: Gardening Essentials",
       ],
     },
+    may30: {
+      title: "Deals from May 30 2021",
+      links: [
+        "https://amzn.to/2R8zZDo",
+        "https://amzn.to/3gaTbJh",
+        "https://amzn.to/3p3yhPZ",
+        "https://amzn.to/3p4youP",
+        "https://amzn.to/2SDXapB",
+        "https://amzn.to/34ucl7d",
+        "https://amzn.to/3fxD2hK",
+      ],
+      text: [
+        "AmazonBasics Large Appliances Starting at Rs.4225",
+        "Upto 45% off on Automotive accessories",
+        "Up to 10% off on Pet Food and Treats.",
+        "Up to 60% Off on Musical Instruments & Accessories",
+        "UP TO 60% Off On High Speed WiFi Routers",
+        "Upto 50% off on Laptop Backpack and Sleeves",
+        "Up to 65% off on Electronic Devices & Accessories",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
