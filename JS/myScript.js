@@ -504,6 +504,27 @@ function displayProducts(id) {
         "Up to 65% off on Electronic Devices & Accessories",
       ],
     },
+    may31: {
+      title: "Deals from May 31 2021",
+      links: [
+        "https://amzn.to/3fxSESr",
+        "https://amzn.to/3uBCifU",
+        "https://amzn.to/3fyFaWs",
+        "https://amzn.to/3fyFc0w",
+        "https://amzn.to/3fxDVXw",
+        "https://amzn.to/34uZeTt",
+        "https://amzn.to/2R7VxQz",
+      ],
+      text: [
+        "Top Deal from Jabra , Ambrane & Mivi Mobile Accessories",
+        "Dry Fruits",
+        "Upto INR 80000 Off on ASUS All in One Desktops and Gaming Towers",
+        "Maono Microphones, Interfaces & Accessories at 50% off",
+        "Kitchen & Bath accessories",
+        "Itel Feature Phones | Starting Rs. 815",
+        "Deal on Home Appliances",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
