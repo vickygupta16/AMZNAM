@@ -525,6 +525,27 @@ function displayProducts(id) {
         "Deal on Home Appliances",
       ],
     },
+    june01: {
+      title: "Deals from June 01 2021",
+      links: [
+        "https://amzn.to/3uFGZFg",
+        "https://amzn.to/3fIAM7D",
+        "https://amzn.to/3pg1GXy",
+        "https://amzn.to/3vH2N4G",
+        "https://amzn.to/3vEhVjB",
+        "https://amzn.to/34yF2jk",
+        "https://amzn.to/3p6xq1b",
+      ],
+      text: [
+        "Baby Diapers, Wipes & FMCG",
+        "Top Deals on Moblies Accessories",
+        "AmazonBasics AAA Performance Alkaline Non-Rechargeable Batteries (8-Pack)",
+        "Superfoods-Seeds(Chia,Pumpkin,Flax,Sunflower)",
+        "Digital & SmartWatches starting from 699",
+        "VMart Women Printed Sweetheart Neck Top",
+        "Vivo Y20 | Y20i | Starting INR 11490",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
