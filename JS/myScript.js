@@ -567,6 +567,27 @@ function displayProducts(id) {
         "Kitchen & Bath accessories",
       ],
     },
+    june03: {
+      title: "Deals from June 03 2021",
+      links: [
+        "https://amzn.to/3yWhnYj",
+        "https://amzn.to/3uLs4JV",
+        "https://amzn.to/3pgNhKx",
+        "https://amzn.to/2RgqGBd",
+        "https://amzn.to/2RXDk8P",
+        "https://amzn.to/34FsSFp",
+        "https://amzn.to/2RhUxtb",
+      ],
+      text: [
+        "Best Selling Cameras & Accessories from INR 2399",
+        "Upto 35% off on Bestselling Tablets",
+        "Philips and more Moblies Accessories Upto 50% Off",
+        "AmazonBasics Nylon Braided USB A to Lightning Compatible Cable",
+        "Max Fashion: Upto 50% Off",
+        "Up to 50% Off on Plant Fertilizers & Ceramic pots from Lazy Gardener",
+        "Upto 40% Off On Handpicked Laptops and Desktops",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
