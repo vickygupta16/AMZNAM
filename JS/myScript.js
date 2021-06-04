@@ -588,6 +588,27 @@ function displayProducts(id) {
         "Upto 40% Off On Handpicked Laptops and Desktops",
       ],
     },
+    june04: {
+      title: "Deals from June 04 2021",
+      links: [
+        "https://amzn.to/2THOUoY",
+        "https://amzn.to/3phC5xo",
+        "https://amzn.to/3z1puCU",
+        "https://amzn.to/2S1Ajo0",
+        "https://amzn.to/3wYlq4G",
+        "https://amzn.to/3vPZnNh",
+        "https://amzn.to/3z0iVjP",
+      ],
+      text: [
+        "Top Deals on Mobile Accessories from OnePlus, URBN and more",
+        "OPPO A74 5G | Flat Rs. 1750 HDFC Discount",
+        "Grocery Essentials",
+        "Nokia 5310",
+        "Deals on Kitchen Products",
+        "Upto 15% off on Helmets from Vega and Steelbird",
+        "Activity tracker :Upto 40% off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
