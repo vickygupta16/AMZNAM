@@ -1,26 +1,5 @@
 function displayProducts(id) {
   const data = {
-    may07: {
-      title: "Deals from May 07 2021",
-      links: [
-        "https://amzn.to/3uvQ98b",
-        "https://amzn.to/3vNeYg3",
-        "https://amzn.to/3eqJZAu",
-        "https://amzn.to/3eYp1YU",
-        "https://amzn.to/3tsnYWc",
-        "https://amzn.to/3usCheZ",
-        "https://amzn.to/3nUminr",
-      ],
-      text: [
-        "Starting INR 129 | Mobile Accessories from Top Brands",
-        "Up to 50% off on Headphones and Speakers",
-        "Deal on Gas Stoves & Cookware",
-        "Cycles | Starting at Rs. 2,699",
-        "Up to 65% off on Electronic Devices & Accessories",
-        "Upto 50% off on Biking Gear",
-        "Upto 65% off On Fiction Non Fiction And Children Books",
-      ],
-    },
     may08: {
       title: "Deals from May 08 2021",
       links: [
@@ -607,6 +586,27 @@ function displayProducts(id) {
         "Deals on Kitchen Products",
         "Upto 15% off on Helmets from Vega and Steelbird",
         "Activity tracker :Upto 40% off",
+      ],
+    },
+    june05: {
+      title: "Deals from June 05 2021",
+      links: [
+        "https://amzn.to/34QLl28",
+        "https://amzn.to/3uNrUSk",
+        "https://amzn.to/3vTOBpp",
+        "https://amzn.to/2T3jNnh",
+        "https://amzn.to/34QorrC",
+        "https://amzn.to/3pksyFO",
+        "https://amzn.to/34TUbvK",
+      ],
+      text: [
+        "Upto 40% off on miniso products",
+        "Upto 40% off on Home Storage",
+        "Cases & Covers Upto 77% Off",
+        "Upto 40% off on Beybee & OYO baby products",
+        "Upto 60% off from Indian Decor",
+        "CrossBeats Earphones & Wearables upto 60% Off",
+        "Up to 50% off on Watering equipments",
       ],
     },
   };
