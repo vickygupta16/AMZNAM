@@ -609,6 +609,27 @@ function displayProducts(id) {
         "Up to 50% off on Watering equipments",
       ],
     },
+    june06: {
+      title: "Deals from June 06 2021",
+      links: [
+        "https://amzn.to/34QuCvA",
+        "https://amzn.to/3ptrZts",
+        "https://amzn.to/2TFyBc5",
+        "https://amzn.to/3ppzH7G",
+        "https://amzn.to/3uWqNjk",
+        "https://amzn.to/3cjtrZQ",
+        "https://amzn.to/3posOnf",
+      ],
+      text: [
+        "Women's Designer Kurtas & Suit Sets Under 999",
+        "Furniture from Amazon Brands & more",
+        "Upto 40% off on Grooming devices from Kubra",
+        "Upto 65% Off Puma & Adidas",
+        "Up to 40% off on Headphones & speakers from Tribit",
+        "Deals on Kitchen Essentials (Pressure Cookers, Cookware, Tools)",
+        "Upto 40% off on MeeMee baby products",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
