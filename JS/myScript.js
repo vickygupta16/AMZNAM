@@ -630,6 +630,27 @@ function displayProducts(id) {
         "Upto 40% off on MeeMee baby products",
       ],
     },
+    june07: {
+      title: "Deals from June 07 2021",
+      links: [
+        "https://amzn.to/3ptZYlp",
+        "https://amzn.to/2RrMJ86",
+        "https://amzn.to/3uYKy9Y",
+        "https://amzn.to/3fXGhz9",
+        "https://amzn.to/3586Trf",
+        "https://amzn.to/3pqtQPH",
+        "https://amzn.to/3wZD2go",
+      ],
+      text: [
+        "Samsung Galaxy M11",
+        "Samsung Galaxy M42",
+        "Best Deals on Kuvings, Pinnacle and Mealthy",
+        "Upto 40% off on Home storage",
+        "Best deals from Palomino",
+        "Sandals & Floaters Min 60% off |Amazon Brand-Symbol, Centrino",
+        "Irusu VR Headset Box & Accesories upto 70% Off",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
