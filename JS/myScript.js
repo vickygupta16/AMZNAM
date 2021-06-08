@@ -651,6 +651,27 @@ function displayProducts(id) {
         "Irusu VR Headset Box & Accesories upto 70% Off",
       ],
     },
+    june08: {
+      title: "Deals from June 08 2021",
+      links: [
+        "https://amzn.to/3cqANLc",
+        "https://amzn.to/3iqcPDO",
+        "https://amzn.to/34WZI4P",
+        "https://amzn.to/3zalyzW",
+        "https://amzn.to/3csLP2G",
+        "https://amzn.to/3co27cQ",
+        "https://amzn.to/3pufaz3",
+      ],
+      text: [
+        "Upto 60% off from Indian Decor",
+        "Upto 80% off on Watches",
+        "Upto 50% off on Nutricook",
+        "Gasstoves upto 70% off",
+        "Upto 60% of on Crocs, Bata, Liberty",
+        "Itel Vision 2 | Triple Rear Camera | Just Launched",
+        "Up to 40% Off on Watering Equipments and Flower pots",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
