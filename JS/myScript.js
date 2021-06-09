@@ -672,6 +672,27 @@ function displayProducts(id) {
         "Up to 40% Off on Watering Equipments and Flower pots",
       ],
     },
+    june09: {
+      title: "Deals from June 09 2021",
+      links: [
+        "https://amzn.to/3ip2fgh",
+        "https://amzn.to/2T7Llbk",
+        "https://amzn.to/2TgCJPS",
+        "https://amzn.to/3w85yfB",
+        "https://amzn.to/3pHYpR2",
+        "https://amzn.to/3v5egdw",
+        "https://amzn.to/3539ZwA",
+      ],
+      text: [
+        "Home Essentials from Amazon Brands and more",
+        "Top deals on boAt Cables and Chargers",
+        "Up to 50% off on Video Games & Accessories",
+        "Grocery Essentials",
+        "Upto 60% off Reebok, New Balance & more",
+        "Upto 35% off on Musical Instruments",
+        "Up to 40% off on Headphones & speakers from Tribit",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
