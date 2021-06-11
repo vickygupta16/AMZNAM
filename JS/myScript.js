@@ -1,26 +1,5 @@
 function displayProducts(id) {
   const data = {
-    may13: {
-      title: "Deals from May 13 2021",
-      links: [
-        "https://amzn.to/33DXkPR",
-        "https://amzn.to/2SHic6t",
-        "https://amzn.to/2SLl1Ui",
-        "https://amzn.to/3hsLYGJ",
-        "https://amzn.to/3f6KrmN",
-        "https://amzn.to/2RRnT1b",
-        "https://amzn.to/3blnfzW",
-      ],
-      text: [
-        "tucasa Vintage Metal Wall Clock-D8",
-        "Up to 60% Off on Amazon Brands Cases & Covers",
-        "Min 60% Off on Handbags",
-        "Cameras & accessories starting at INR 375/-",
-        "iPhone 12",
-        "Deal on Home Appliances",
-        "Upto 40% off on Sports Nutrition",
-      ],
-    },
     may14: {
       title: "Deals from May 14 2021",
       links: [
@@ -607,6 +586,27 @@ function displayProducts(id) {
         "Min 20% off on best selling toys from Wembly",
         "Upto 40% off on miniso products",
         "Upto 80% off on Watches",
+      ],
+    },
+    june11: {
+      title: "Deals from June 11 2021",
+      links: [
+        "https://amzn.to/3zjSZ2T",
+        "https://amzn.to/3zszxkP",
+        "https://amzn.to/3iuPhxv",
+        "https://amzn.to/2SjBf7m",
+        "https://amzn.to/2SjBfEo",
+        "https://amzn.to/3pI3Gb0",
+        "https://amzn.to/3ixGLha",
+      ],
+      text: [
+        "Cycles | Starting at Rs. 2,699",
+        "Up to 50% off on Video Games & Accessories",
+        "Personal Care and Household Supplies from Made for Amazon Brands",
+        "Dry Fruits",
+        "Fossil, Titan & more",
+        "Men's shoes: Upto 50% off on Crocs, Converse & More",
+        "Deals on Candes Appliances",
       ],
     },
   };
