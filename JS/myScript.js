@@ -1,26 +1,5 @@
 function displayProducts(id) {
   const data = {
-    may14: {
-      title: "Deals from May 14 2021",
-      links: [
-        "https://amzn.to/3htnQn8",
-        "https://amzn.to/3ycBJfm",
-        "https://amzn.to/3uMUDre",
-        "https://amzn.to/3hrmh9k",
-        "https://amzn.to/3bo8Nr0",
-        "https://amzn.to/3fgfjBt",
-        "https://amzn.to/3fcHCk6",
-      ],
-      text: [
-        "Lava Z2 Max",
-        "Up to 50% off on Coffee Mugs",
-        "Upto 40% off on Pantry Beauty Essentials",
-        "Upto 80% off on Mens Boxers, Briefs,Vests & Socks",
-        "Men's Apparel | Amazon Brand - Symbol, Diverse & more",
-        "Women's Apparel | Amazon Brand - Symbol, Eden & Ivy & more",
-        "Vivo Y20 | Y20i | Starting INR 11490",
-      ],
-    },
     may15: {
       title: "Deals from May 15 2021",
       links: [
@@ -607,6 +586,27 @@ function displayProducts(id) {
         "Fossil, Titan & more",
         "Men's shoes: Upto 50% off on Crocs, Converse & More",
         "Deals on Candes Appliances",
+      ],
+    },
+    june12: {
+      title: "Deals from June 12 2021",
+      links: [
+        "https://amzn.to/3iBuSXB",
+        "https://amzn.to/3gddsz0",
+        "https://amzn.to/3iCYFiC",
+        "https://amzn.to/3grzxIP",
+        "https://amzn.to/3xjRfVp",
+        "https://amzn.to/3wlHmGP",
+        "https://amzn.to/2U1GOHZ",
+      ],
+      text: [
+        "Upto 50% off on Cameras & Accessories",
+        "Weekend Deals on Top TVs-Limited Time Deals",
+        "Top Deals from Mivi & Urbn Mobiles Accessories",
+        "Furniture from Amazon Brands & more",
+        "Printers for High Volume & Low Cost Priting|UP TO 50% Off",
+        "Upto 60% off on Crocs, Bata, Woodland & More",
+        "Dry Fruits",
       ],
     },
   };
