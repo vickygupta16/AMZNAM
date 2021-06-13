@@ -1,26 +1,5 @@
 function displayProducts(id) {
   const data = {
-    may15: {
-      title: "Deals from May 15 2021",
-      links: [
-        "https://amzn.to/2RVkkaq",
-        "https://amzn.to/3yfDXdQ",
-        "https://amzn.to/3fm8e2g",
-        "https://amzn.to/3btAEGq",
-        "https://amzn.to/3hw1rFM",
-        "https://amzn.to/3w8NX6S",
-        "https://amzn.to/2RcZS56",
-      ],
-      text: [
-        "Pantry Beauty Sale",
-        "Min 60%-80% Off On Sarees, Dress Material and more",
-        "From Rs. 299: Lehengas, Blouses & Dress Materials",
-        "Min 60% Off on Handbags",
-        "Upto 50% Off: Gardening & Outdoor Best Sellers",
-        "upto 60% off on Wodden products",
-        "Camping and Outdoor : Min 15% off",
-      ],
-    },
     may16: {
       title: "Deals from May 16 2021",
       links: [
@@ -607,6 +586,27 @@ function displayProducts(id) {
         "Printers for High Volume & Low Cost Priting|UP TO 50% Off",
         "Upto 60% off on Crocs, Bata, Woodland & More",
         "Dry Fruits",
+      ],
+    },
+    june13: {
+      title: "Deals from June 13 2021",
+      links: [
+        "https://amzn.to/3gfBNEm",
+        "https://amzn.to/3zlgzMF",
+        "https://amzn.to/2SumBKo",
+        "https://amzn.to/3gsAfWh",
+        "https://amzn.to/3giQV3R",
+        "https://amzn.to/3zn0B4C",
+        "https://amzn.to/3xgwPwx",
+      ],
+      text: [
+        "Up to 70% off on Safari Suitcases, Backpacks & Duffles",
+        "Upto 70% off on Top Picks for Home",
+        "Upto 20% off from CAY",
+        "Upto 60% off from Hardtrac",
+        "Up To 80% Off on Ziplock and Silica Gels",
+        "Upto 45% off on Breton beauty range",
+        "Min 40% off on Premium Brands",
       ],
     },
   };
