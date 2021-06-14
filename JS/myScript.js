@@ -1,26 +1,5 @@
 function displayProducts(id) {
   const data = {
-    may16: {
-      title: "Deals from May 16 2021",
-      links: [
-        "https://amzn.to/2QlaTAG",
-        "https://amzn.to/3uWHITC",
-        "https://amzn.to/3hqkxNH",
-        "https://amzn.to/33Q5iFL",
-        "https://amzn.to/3hqkl0V",
-        "https://amzn.to/33JHPGh",
-        "https://amzn.to/3uSQ6Ue",
-      ],
-      text: [
-        "Designer Sarees Min 80% Off",
-        "Men's Footwear",
-        "Kid's Apparel",
-        "Min 60%-80% off on Women's Kurtis & Kurta Sets",
-        "Treadmill : Minimum 40% off",
-        "Deal on Kitchen Appliances",
-        "Cycles | Starting at Rs. 2,699",
-      ],
-    },
     may17: {
       title: "Deals from May 17 2021",
       links: [
@@ -607,6 +586,27 @@ function displayProducts(id) {
         "Up To 80% Off on Ziplock and Silica Gels",
         "Upto 45% off on Breton beauty range",
         "Min 40% off on Premium Brands",
+      ],
+    },
+    june14: {
+      title: "Deals from June 14 2021",
+      links: [
+        "https://amzn.to/2U4Rs0D",
+        "https://amzn.to/3zi1Wd0",
+        "https://amzn.to/3gny4om",
+        "https://amzn.to/3cG0SG7",
+        "https://amzn.to/2SorzIN",
+        "https://amzn.to/3zoTpVP",
+        "https://amzn.to/3zzAA2m",
+      ],
+      text: [
+        "iQOO Z3 5G",
+        "Samsung Galaxy M31",
+        "Samsung Galaxy M42 5G",
+        "Offers on Home Appliances from Dyson",
+        "Vivo Y20 | Y20i | Starting INR 11490",
+        "Up to 60% off on ESR cases & more",
+        "Premium Cases from Ringke Upto 70% off",
       ],
     },
   };
