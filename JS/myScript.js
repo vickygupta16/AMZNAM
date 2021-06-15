@@ -609,6 +609,27 @@ function displayProducts(id) {
         "Premium Cases from Ringke Upto 70% off",
       ],
     },
+    june15: {
+      title: "Deals from June 15 2021",
+      links: [
+        "https://amzn.to/35j7dU5",
+        "https://amzn.to/2SzHh3F",
+        "https://amzn.to/3zl7CD4",
+        "https://amzn.to/3wDDBgh",
+        "https://amzn.to/3cHKMvX",
+        "https://amzn.to/3gvV836",
+        "https://amzn.to/3wqoiHF",
+      ],
+      text: [
+        "Moblies Accessories Upto 60% Off on Wings|Truke & more",
+        "Grocery essentials from Amazon Brands & more",
+        "Grocery Essentials",
+        "Deals from Star Work",
+        "Upto 50% off on Hebal Tea and Pink Salt",
+        "Del Monte Grocery Essentials",
+        "Superfoods-Seeds(Chia,Pumpkin,Flax,Sunflower)",
+      ],
+    },
   };
   //<li class="list-group-item"><a target="_blank" href="https://amzn.to/39iIEZx"><span class="oldDealTitle">Coolpad Cool 6</span></a></li>
   for (var key in data) {
